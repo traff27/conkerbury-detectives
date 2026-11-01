@@ -8,10 +8,10 @@ window.CC_ANSWERS = {
    "45694dfb7a1bcc9102976ff30aeb768914dde01547110293796f59d230fc17bb": "Look again at clue E1. It rules that answer out."
   },
   "reward": {
-   "salt": "lCRL+s8BiKnglldKBUTSQg==",
-   "iv": "99hpZd+DUeyj9Nru",
+   "salt": "WAdDJrbHeQL2M1k0JAsGHg==",
+   "iv": "B87Lp8QZHJS1qooY",
    "iter": 200000,
-   "ct": "5Zq5mvbnbIUW/UlgmwZQjp75q0gH567l9iJoRABGstko9K2uJ6fY6OEqCvcCuGXbf33vqPzdQw1Aa4i2cyN8lb8tsVKt48GsHnJwKZpqe4F0qi9YoFxQBvo8p8vEleNaDlVf46qvAsxwhsFyoK/+wb8GMT+CI2ch8www1ygfEEl+8Gu796Z65T+Xu7njTNUh1FlJQ329HUpnq6DIL4WN5ARCsFGV78+2HYeNu870thVzruhf6Jtt/PMAhL05NhC0HZDKjAh19GYxKd0Tg272DWPeet1nKSFfLH6D0EgH3J2B6XnxOqTjxgmt+bb9D9UHjJTE93ZM8JhgqPllI/XaVFUwB8RNP3+bJO4L2k5lOqFErf9ojVfDbdq1X9DRRcgOFLcs1Mj1xvhyd+QIYtXErewKZxy2Ez3WZReYrEk2kPQgIpKfVo/3gn1fRzh3bGYfLDNYt7iKzRK5bVc9tEvho+p75imV42+WM1hJ/b2U6RpW/VDbKmSXLPuVpjiuI1dNsmXo9/Pu0y0tGFiSODzWZuTyjIpfrYe4hv0UcZMRYKr4C8w9PmB0W1sMtxyHTZBQRo6zcZhmI4Q="
+   "ct": "vpmS/UmssdmUy9ZS3yPOPlvNkh30Ijys7WxdyEqSM/kxf6euoXrVX3jjs3caTQcH3YM1Iis7tzdbjlDpoCs9IPPr7/CN7JVCYzSgLhpttg71VITrZQ73BY4LkkAMesV0BfwQT1rgeRPj8Is85lZ/H5VapSUGsPaDZzl93zjk4rzKEv7X/95RX904gRE6uistNVyzAjcBj2McVXlokmMK9+zrM2U+C4TcrOdPvIGkafdfLQeOTVS7i9Kbw2W97SnLWyjL2rBqIaVUcA+VbCScl8ZVm18zM64/pClqgJUAAR+BFMnEsLdoWkR6P9zJPN1JfsDZtEt8g0qyEw2+/nLSQzdqP8mcuRu4PgaZse2BB5Xf7xGutu/UotNhHN/gIt/Eptvs1A7acAmWdueDQfddVrzto7avg0DleGxb5E9b5mR0XI87lCu+NOZODRUhqtuhH+hMJaJbxrOp5IssMan9MAobBa62zhXbkv/+unWPzREvFjEzB2jT1cU2D8EW4gSVdQldvJoIoiaJOHUjP+wXu30b2ofSpre+iD37QJBpMjdN9E+4V/SPoYkLvo1QPKMT2gqE39lmGTs="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -25,10 +25,10 @@ window.CC_ANSWERS = {
    "43ea005d5796d769830c9bfb0bf12e69b4a382af3ab148eba0ffd8d194d630d9": "Look again at clue E2. It rules that answer out."
   },
   "reward": {
-   "salt": "YTUrfWimjTw86J3iEGE4hg==",
-   "iv": "KbM5sT7jDh9+InkE",
+   "salt": "5gN9jYoO/GU7mj5neJ0RNQ==",
+   "iv": "ZaL4d9f8mddhvpR4",
    "iter": 200000,
-   "ct": "YH9/dyvHOq7ZT2ObBoi3Kpn16NoEKI3Qhs6N4uybzcCfs8YRuxjtQxfrSbxz1ZXn7vPl96hHQREhKmxDKhoR+lWFMIsqQynVr7B9dTIUq7Y2Rc+Wj6fYbhtzrZLlHPb8DziPL/CAs87dARTbDA3UoNuOW3DeC7JYDe65q4xriX6JCboOAJFhYYI94uT1Q1+WLu9lmZ1Xejnr6FM+3F8nQQEZwf39xBrSmxO7tgMCTxSk0DXhuzRTUCM/0T794xzXahpUfC75gPwtJABA1BTrutwqLmL5FgwNuALHWFjuHICjXGUPCMkFA8ZO8kUUZTQqCYlp4gAgutAM8NHM/NcJcilbgkw1xMlxfKhTKvQLCxy9KCY86qtCXXFpCWZ6FpodotvGXY0Kfvwa4Gpuf/7KJQn420o592xg4bn4qmKTLafhf1+1m9g2CSOp0GIsxJpWDlV9dK2H4oeShgbFJNtNZjNVkphV963ZONoMqBurn6hllMPD7QvLAcVFH13CaUorKRxPlcRr9yoNL5YfQZyza2AJChUVPTz4ikoExFVGdaNTMBVZ0iaOykxwgotRBXM3o11fiBUG4BGWuQpjsTGxyhrQsE1Ix4nyag42uBIOt0vIw2rrqa9d9UWTFdnwQvSTfoBHWA8YhIAYAwBp8o+FG+jWfcCSnBUjgvW9vDt3af9VzObp/Q=="
+   "ct": "yjy4c6RhUysS98+0jXqT8bPGN9PstRiTUBT3dZUZuDJAC1wyXLmGgZgTqUk9HAjRT3k0zQpVedGwKJgQ7FL7gsOsglTD1lASFWRK9wvMtkrSEavgnkjIXOhjBqoxLJVabjvpOsvxFN58VQWrFYNH4JI0dCloU8lU30/CopVoNOqze/KO2tPAOjHSAmHROQcVVF/z4ga4sx8ZrVNe/cphqrhVkxKN1Y0cc8pi2F+8mPatCYt0e+ZFoHGPUf76/4kTc/xdSrr7VTsHYI9WQ6RDCdvw9N64oMaFHsFLcLvqNK7kd6ZIvKJNoWWNLpzrBv/ozzCJTp7eZmMd39pkLE/kJmra+QbO7eMof/ZPGmVfEC95Mol5gzq5d6ekDv6LKAAf3/OerSU7P8X4oh649BnJsB1mRyQ4uD+4G5S74jrciOHodJXwvmrgpf1ILchA/bdEyUIWk/IL5DEdDt7NXqqqYQeBBrd4timNbWHBzIdf7zKM9zITWdzfdu4WYzLeK7dt5lusUnG/5XQd51XCp+h2PU0t7vsWueYGJ17klLGvjpvMoiE9LPrMNr5F1FCGdLRVjJfKnjG47hJ9ULdUXiXL4bNVtzspN3A0GchSlmqe6yDZ/We8SnQVkaSnjF3a6n/dRDlHl63WxTtczKoYak4hRhI39xdeE3hNbj92piste804qIru0g=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -43,10 +43,10 @@ window.CC_ANSWERS = {
    "9cdeedcb629e9514afcd84c7ef58947e9bbfbddf15ecf991fc6ddde883b6fc92": "Look again at clue E1. It rules that answer out."
   },
   "reward": {
-   "salt": "mIFEgBlK8bLu9vJDZSGlpA==",
-   "iv": "aAOhl82RDrp63CpE",
+   "salt": "gzsRxngAk8XwIeSxNNSeRQ==",
+   "iv": "2BNUBCJ+cYPnpVyU",
    "iter": 200000,
-   "ct": "2P0xbpdQl29yNtSqtKUuuOpP+QztRD/AXX5QNMYwg9phn6W8qfYIEW8m6+T8Cd2kqouy2SpUGan5cOJbH4H+f3nXVWMi1/RM6KTRsweKJxNmyPQ2hkjyVWJkxJiJKTsXp56SlkhRnhzfQBw5oKWPs/BAJh6MAeSIbpEwJRC+Q9lGrdnLmdVMBX+cN9GSduQs2lYjcQcqasDLkMPFCccHD2go0GmO0xYYFpoi8kwJIXe//W2DXJj9R9OXDSV4P9sAHwkbfXMmjxO0vYzfB5HQnibMeMxslc9CToaAlnAv7+fKeDlJZKUI/qFLJyoXYhBrwzvnYmmRmyeC6ypUD5LzSLxHBhvdtIQ0MmpjStYL6fEAH0QG9Tv5PPAWyz3Tv+sWTTihX19OmXyrZkD0MsGrSMoAuys+DAAMbm3HXEgpf5GtCEA/FeRPIatJI7yrPlE+HgCyS5Rkt0tl3AamFc3Z89vr56pTgJo0F4574zN+6Le4YJEjq1gS1CNi+DYtFVz4KCha+wF8kx7ci/XnloMl59HVgxCt0G3p55V8yblhoJ4VUqQvNQTT0hGOTEtUjoP82Z1HxIClloT6QmOaVDi+9SfGQSfPlD7mtkQMCe807pz1mlJ2fjXjWf9Q"
+   "ct": "9NCtt5xVi7ErZwd70G3lAx36AdmQr0SpMIwtbTy+OE7IjBrXKMAMulAwRL+vTj2x+tfQdU2M1F2Bffzjuqesit1j8SDJo7uKwfGKDSH+qZFPTRQ9EyUaGFcKUHNpz0WOjqRYjiH0ecEcASQD98SfukkYRvF7M0RE9o7BoUYC71PSYmHbVXZLJSVVElg1XIqyYKVQSv2VVXmFrffndpcke2+JcoUZ6iyiKhTG7NHoK1wOlV/tuwogWTSfCc+XkvQZRTTpVZrRB0xTVqLfa3NSt7732lL60TnY82I8oLRZT0OCz7MOpR4o9/+0B+czae7bfTqgGg729kU/1UdFREvNXu566UkzjC8Sd7zxk60D+u7xhTmmiihHzaw5rSDpBaHvy5cGbqafXlGTbn5BQJyPU0le3Uumk+/QF+fSQlzkNBv0StVK1JWU3qjw638QxV1Z1T7Ik81rEbnsgEnAB34dgoHbzJZx8/d3i7QUnr6jvFDLwjL/T7oBCi4aN+LSutrIF2org9JdcibdNO9z6zqvSRBemB5TAT+74vX06I5hIJM8p7hi/j12Rg2l+d+w7EzSJfrak+BP7W0we91a/Dg53pHhZAoRVQlbxFe/IK5mqWvmuG9V+q6dmeNI"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -60,10 +60,10 @@ window.CC_ANSWERS = {
    "50a2c6e6ab960aa36bbe0414c72ad87e58f23f97d2f67a6083043b4beef2a4dc": "Look again at clue T1. It rules that answer out."
   },
   "reward": {
-   "salt": "ja87DFP9rDgFLyIqivrduw==",
-   "iv": "DF9lRrj1amEssiVa",
+   "salt": "+dMdxfs/b2/pTbyWcuZuwA==",
+   "iv": "6L2f5Wqz9Q+U1qkj",
    "iter": 200000,
-   "ct": "GL0a99zmoC+wdiA6oN063EABTskL7/v/oTUHmuw4+HwNL6lD9lp3pGsyDdd9HEBU+nfWoQV01kSu+X4XAlHRVKa7QgOXHmIszNEh8gkUcjBzw9o8SyWM46fnAsBABwx1NSwpia7wvFxBX+B8qQsaDl/8/EbWH3g4unOdfrNjKLjrJWIgq4QLwidw5i9EoQ+TGYqscMI3uaY7Oq7blaZEa8JUn09bTsn+aGg0ujkqhmTgpJmT/l8nontnwAUyA4cD62d4jUUxxlhTrjVdEU4Y4b/jDPvYLh2mFpjOK6aamRZQ6wHcpzRJ/utcJAcOiClmDs+QprosH2jAx4IFgDngpxTkig0a7urqGClLVsjFPGvQBv5ieLyY3Jfj4tW9rFUU0r3Nx0isxHllX/aV4EQOYPWridnMHx/qAbb+/iXt7tCXxtzODlzVfyCo0RuOZtrfz6r4OJhxU7E6TCUH8jaIriW17+olnbO36dr3FkcJMrsDkHEllSPGQx8PAPHcfJic4ap0tRhCYQx53UY7R3xgpcR0PSrnSoADaYfKFE8aojAjBGz0/IaXYRp3n+cPa/8W62S67bWpskLYhspk8zFxVxVTQgrciel6iG6vtqjxZsP5JmoL5+Bx6MCArK/xV/5gz/BM"
+   "ct": "oIQUQ17hOsVQ2RwisRh/x/yerR6yboTO6Jhk5gzQdj2Li5dHtBzbbMvJiZlNrDNhOYG5mwsyk/AciE64arYab/Aw8JufzhDjxNTlms8VO2QipfktFH4kb3drXSwD3W8CBDTVJYGSqs/kA03V32ulrs4BKxqazYofE4lKTsoSlMX8Iiw0Sr+mlBPrN+Wr3mTJXAPbGaMt5kidwHNplZrXwPW+W4nKyH9DsKpogdn1jcHyMl847Cg4fxvGWTHyqTCdNbFc3Esk/2dXUZjktFNrv5ItHZ9S49gD4wLp3DcwLiHOZsUAka2Z6zLSiPY1WnFWJ2m9vRefxiFG4iiw32BLGmrtuy/JKdtV36559nZS99CaRAN6r0SWUTltuFO34nC2nuX+Z2pJ5jxUvKboHfXA8V0ffM2YGIyCGpXeaQ2JhfLodNW3/8epSYjqKsIh5vXFgCfypsmK8xHmfognTRYrpq8v5At72gpLwQOH+aLW2FegOEJdMY+rgN9EjhgGtnMRGmlwZMJ6+gnmiQfGiAr5+onN1POEvEQtNPwLXy8GF2gCYdhZl+IwVhnOswTLqjYXw8uKNShav4LbG87M/NflpC4GivsZ4qB7xLmEQ7w/XS5Ol5soQSeGkVnM9qtLsULoAwpb"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -77,10 +77,10 @@ window.CC_ANSWERS = {
    "a3dc0714e33ed1174ea7e952e958e160e521ca65cb2e257775a3bbca9602d1c9": "Look again at clue W2. It rules that answer out."
   },
   "reward": {
-   "salt": "tX6QxFBQNjUQ/bEgVCYRZA==",
-   "iv": "uebL6R0/PsS5r6xO",
+   "salt": "ezYjOWMffsCJ+2XPpgMicQ==",
+   "iv": "xWV9ODN5a1dj/vOt",
    "iter": 200000,
-   "ct": "eN9X2RZ2DrmjOajgKNyZwHKNn3D09qo2MdG1ZrKWe48rxvBSiynkp4Uvx0BOtbwzaOg0jDi4OsajvVBqnf7AhLwjn/jIQHkyjeqjz9e9fay3jrpcPePYW8VGXgj+acqfJ2FnqUcwZu0nJqteJsLe+g7QBvfsrPnAqowoX2LtOy1AWRn0sc1dDeiAEpxvhsIJB4luQ6iXNM+iXTdSnJHCRfta/hoUKKtR/JIwYST29jTlzNYfpkX4uIzWvGCDgq8YMBd/JQFtdEeK1lcwY40SqLOC79HOCMRrvb2ICqgnI4AvGdpcJ3iNvtyCXF3KSnZP3EdP5Wa07ygqXKi+i+RkAnsmOgjwtfMalArzsRdcyQs4u7ygmdClcjFxr586MZlnrix6jkSlq8fLmoNExgOiM6GWY7s8WSJnNR1cBdb0LFjip0HlLYFvCwlHQFWw+nu9zpE3UDnKYlUEHZiNyJD8pjnC9XykQKq173SDgZwo98L9Whg7Sb1ZCTPcDvHoDmR9WTXB3cC6OmqfuEsUSfituTpu14Yzrg0Xym8hrJ59SHGs8C5jla3y4HB5a1j10krSRBYXv1qCQ9so4hAP6xAqIHIY/RyPJjEmS765B4sgwRIVHBpO9vzlphPfAQe7lfkOy5Oj+IEdpINGymo/o7paf/Mwa3BuJ9fcDxXKNUEcXuaqcrev"
+   "ct": "Whvg7dZiYU7EV0BT5HNMwgUN+cSudZ59Zrq4f0+ipapKsbxbCfS9OWTtdO8Y86Alec1J5wxv3/ez3DGGb3ZpFqJiPN/YZAHHLclqV6CTL31e1maT0AU7ayskr9X/TNDTHSgd8SBRMLf61fszfTo7TDeI11H2a9PJEg2/uzhNCefiG+WciYaSoE5J7kNvYd8QlX/GL2R+PRHdVC5jkcz0Sxhpy5WNhV0vWRpwBh0NiWpTW3JE8JbMVsaGZ7+1qIavV8sHq/OlxKEfBCLgYluHWs3WVoLNaox+2CLfW4ItpLad9vF9u5l/UrrxbRSi9rY1Shq/NV7SylWLLj6nt2u6eI+PnzZhHNvzEjZzT97A2Pk5UiGnMW6eLNNstHqwK3nUOt2Kfldl8OLg1rpZRPJZWu7e9qgSxyGL+GI56JqLVNP5Y5cOnNcFuUDbM10QjhRjcA5nDW2arXQf7ar7KFfHHXS2e8pyAyLV1OVIw8JrLCgCGS0Utz+JTX96CWhAUJO8Wq/kpB15EOTaT+0Ah7KC9MxG2KWISegDHyxycBckjiTzFGhOlocunguV4nIgzi3BGz5UVb7oMX+ZT/FnEMBp451E/I9SRxHjmYO1vlNOTldWvwDoAYuz+OeAgXYJaxFpBjBWVpdYdra2d4x7Rre5crUW+KkawUUV1RRRCi6gueAXrwzz"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -94,10 +94,10 @@ window.CC_ANSWERS = {
    "018ce9731e92712c7a3ab8bb24846e0a747b8b8672996ec87253090f111b2571": "Look again at clue E1. It rules that answer out."
   },
   "reward": {
-   "salt": "L+G8I0VHRWHEQNfk/TEUEA==",
-   "iv": "BhTi7NZuWy5VXJPK",
+   "salt": "TWSmK7CId/cwW1tYv9YqbA==",
+   "iv": "1pMROvVO/OsKJI3+",
    "iter": 200000,
-   "ct": "+kmxgTqobu618zCWYAdlRrgp4RW1VEICFzecmWx5Yv3YPGg/g1MHUcIEnACa4CWCRdEX/I862HxI9M4PYCPbwz80CoErAPUDyA+TddzZd8bkobobqUigHBz/Y3aQOjszPX6B3VTadCngJB3qxfPuV2KeBSAa0/mNM2Vo05SB1YqNbY7aXvpyzKX2BZjbKp54lGJ+v3Uf/6FR7vLvEVFqVSLFibAMCK4v/aQDxZh9E90IlaH7qY4aKq4ae9JyguCAj7Yp9PsGylPcjWTfu3T69j3QxEcGGZCU2htnchihUwjtVLsXy2agezIDUlLdTBsCet4dWN4nqkR/kcGBWD2QR4GDRJwTJpbGRpNOE/Wiq9qslX3Cyq8igqRz/bTIhNWUQunMKirSOjeaDzGv09bIChNbww4ssg7vxOA3gqU9Q33VcJYmy05B9PWfHbBQQV2fJIecufpMfUnXKYVBBIC5PWUHAJPNeJ8fwHjXuBuPV6Sag37c86KFXTrZ+uH8MjvBRPgjyuxjcpDWkjvCkorNVSKG3NWx3RtLMOrZhgMkvfD7g1XCukQmqOxhLb0TFF29Ga9jmDkByzB51B/KU9h5TUML9w=="
+   "ct": "SnrDcwds8ZLKY76w7dKg3Cs1nN1ma3N4n5t87szVRRPB6zut2AqOtpxfRuWgNm9F1GW2Tvoi4TJC4OfR1oHLGCYFs3bUeCmGFvGFozozscEgTzykSOGMq8i9BWWgLZZ7hCBcq1wiYFKoG7SlGtED+E8rnuYl/mczoyOo3Mt54xRx35pXGLxG1FPvI9+yMvyKRubPnsY4DU4d+d3/0zcj2kThVHp238Ng5/HYQnEXEmq5bPUCKr2WTtgHAywjvxUlqyL/TIkEa3PEltN4qKUdgW2lMf1tlABa2uahlvc12QP6jBzjBviuC7B8Zn/IXlu6EDONhAVGewyJuNhEB3H0VUDe4fw6XBBY8sVTzw3bwL8UfQX3SBEFchI27eFNGmqwyQpx1IYleAmV0bWhUhlKoJJ3l12gWK4Dh4ZtumLHKblWU0afUqrO77YOtJEEnLdsTSgH0QdbxjLEtXMXXDRqMU1QcDjea7gNxarno5gqhk0K73et+G5IB+ACP8xAs3sGsH89qNEIdhe44de9Mv/rJcr1M03rpchUdeoH//+OkPF3zOWo8DQ7ggQ2UJSP/MT4CNAn2N+Gi6bX7YObJCjnwpsyJA=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -128,10 +128,10 @@ window.CC_ANSWERS = {
    "dd794c6c90dbffcc450697130d073e3c2d661be69999fa7524e8f8a2607691d2": "Look again at clue E2. It rules that answer out."
   },
   "reward": {
-   "salt": "kATTPGjG98TzUKrN4+/LYw==",
-   "iv": "RDRm4YPNXPEVEK43",
+   "salt": "Zwnp5R3rMrsQ3W9tlqbu3Q==",
+   "iv": "C94UdanckCxbFwqF",
    "iter": 200000,
-   "ct": "CTTfOSIG/bQAPaYZ2qnDcNx/CUuleqlTzTUOCIXjLdadx9++OyKwa8koYdbVogZsrhPAMApRbsEB16/iE6BJw7qMHzm0ScA2HrUFnosTgdu8qlbfrGBwDzak2IjdTPVSIZRkNv3cPkOiLPWLffR1fhkkF4kTezdjPDj1sXeMINK3hwQf0tMloBKrMp098Y5COq+5+M4QXsSZIbPmf57NmGCWD8vSxVydyKCOIHo3hSsribt/t2P0DRlHRMYAG+jlrGKuA1ZBio2oxTbqR8JYv/2grWRwB0jLUqzrfoMYtFe1gQiWRO2sbujoFeCpXzmAL6MCvdTTGAJ9UqiwYHyqJbEgFTW4jND1JxPE3Rj6dgsAWxsDxHDJfR8g6tJGgad5rXVfH58ooHHL6xyUS9x44GDxbBG4CJEkHN/m9c8MIpUXclS4NR7wk10fzf1kBM5tkPwXDHH44LXoIBs5qbCrKqHkTrHdJQabUMI/azCFGRfCY+CYOF4/lJ/BI0mjsUzcO/eqXo4TZzDnwK9wleQvp3IIPZT/UJAAP7Td1ggpVz2bFCtQ/68TFj3eP1VsuWfveMm9+qpwcubyHVsZkgKpXZEpVhXDlTCnZyGE4+uNoFLxY5rlvCDUx11oJ4FXD+QZ6CLuuWIHNqzVd5Q96aZlKPLE+H0idSUQ7vbkDQDciAWhTA=="
+   "ct": "3LY412YPXAsei4ymDrDBgf3UO4Uj+JmJZb8OLX8vibDaIhTZL5G9jGCdMatGlW81IC7+8g91tes6NFxjSK++ysr8XC2CTAfTk7/4rd3ZAt9U6B/YdnPHhP2vmGyfO4ckKdoKTwATByJ3QgJDO4V0HcsOGTOGdImp6N1tyKDAF0UFkd1fPnPbXnqVCpGkp3iStGjRoU9ULJNwjWBTGxVaMLTLzw5eMeBqFQfWdSqj9WCRFVBUiNtN0kFMuvUJ2v6izjp3Y9SathgGemTksdDu5APltwehAuh0ot2/Xy7KRSDgneaaqb6qQqGMBti0iQNfJhP+8Dzk7GYYkuxt2hYcVOkm+7XP7B79c0KoYQPo5bfDvl49B6QBqBrvVHrDwfK1mIcpmw44EPBZA8dRldYBS9athF657LEn4fp4PQq2yJAY5ruO0bSELj1R4jeRrIcimIHcjNEawLTb9P0WLK7vwh9EGfIGM92Ib5z9p35ANpxltnNs3+Frm7DmLUBpbBfE7m8BXmA7ESMWIiWWnc5FU7in2NIzEieVaBgXVGYDbY3pBaF9WKXSS/yDkz1WK9YlOB9k1pea26tVmkuS+j3P1e9PT/yTaJ64Sgum5q2LpDQ5uQDbjik1/CMG6GSGlBPLJ/jooCS9Z62wpTLZcjOw5jINj7HUMHZsuI13cOk4z/H3pw=="
   },
   "word": "9d1aaf7eeb81045eea7c2ef3b1a6c2ea7b304abcbc20eb4731f8370bbac01621",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -155,10 +155,10 @@ window.CC_ANSWERS = {
    "38b2dbac261ac5aa18f715908fae34eec0c1f9fa0d091f7a2d4f97d05232ca1a": "Right suspect, wrong hiding place! Read Mrs Doyle's statement (W1) again. When was the canteen locked?"
   },
   "reward": {
-   "salt": "omVLv5wUZY4Qw9TnEqxTXg==",
-   "iv": "QvGHxOBNjRpn/dtL",
+   "salt": "Duhcy4/XWqxlJ84rDGRZag==",
+   "iv": "pcpCnduw/FWmpgei",
    "iter": 200000,
-   "ct": "7BJfvdjQ5K4e/si8cFqGwG6cYFvxuXF2W8NDxIdLpC0hjjia3+0UK9tiMAtxEs/XvcIYgEFotxY1xO3Ir1gX+cOsr2Qc+zEBIj0CHZOrDu3sZvPTGaIxb94oJqPJmEN4jLFwTIQIH4mW1/kadnycmw71rhyACNQ9n3ur+kT+4sQZpVY7CM9Xsjuq+iOeu5ytUcSUtlr0KmbNSkoxlos4Se+FUuzlVzxtRPZ3hoiKC+PkgZcKYpI1D3v2ZWiTaYDpDvoVJYpS2rmX2q81CVzle02Kdpxp2EBJeGQqxRCKbWjglXofpgx7MyEZeo0awhYk"
+   "ct": "k2f6gutDlsgMB3YR6C3aPDgGlnSc69VfZsi6UHhknRZexWaNodEYfw4gdiSTvl1D7vPQdtUiNH4kthOBr2nzQeGgn5oZi34OqfLAhC0cdwYNIhYR1wFdpWAy4F3iHrZDcqHKgj/0+SrIAcY8i7+lSQFA98txeJDcsas9+Te1FY5BedDFlxhi9RRQin3dvF4REtHDWgxlFF9XU94sjTvlNvdDdVyAjfYPF8klk/+EsiQD8ly8NGx6n3s0F7gsUSExTe6Pd0kUZJL7v5PKr4RQLy2gwxj0dalQ5DLbAU6LtehbGUdquphu/tA7KE4Su0dH"
   },
   "unknown": "That code word doesn't belong to anyone in this case. Check the CODE WORD stamp on each suspect card.",
   "nonum": "Great start, you've picked a suspect! Now add the NUMBER of the hiding place from the map, like ABC9.",
@@ -194,10 +194,10 @@ window.CC_ANSWERS = {
    "19433d4aff07cab194f757d495a09d6c46267864700ff13af3358d6c84262229": "Look again at clue W8. It rules that answer out."
   },
   "reward": {
-   "salt": "D3xsyIWwcADAcuGCGK2zJA==",
-   "iv": "vIn6YUVPHgkyRHuu",
+   "salt": "4c1Ky2GBZOsqzy1Y9zctdg==",
+   "iv": "7zQDCnY9FzIurhPH",
    "iter": 200000,
-   "ct": "2yJxVc0iAXllOjXPZYfRqGDe8GCcLq1WLeLI6vINmT7pyfEWbi6Z7WOOgHtGUae83ZKe0nW4f8o5OVwHREneYP6Ah4XHySWcj5R0i+NiGHy+z6eFv/XJC7j7zBiNIVyqeUQyB9ufUYjC/m+4W/DRMHJsOpaC1+oLkq2hTLuQNSsBneyD31cEloSg+S/kTf2oEhMpU2Z1VO3xAzk4Wk8UAVmGbEIC1pWWMzwaFxYSqXX3Qx/iOcH0hc9948nsP+D52yo4LaynnLloNJOKckQJB7/ldvKqQ5yzScaFKLWnBuWzGE322baMm5IAbJY1pXHcm6L5+NSKzBEipFBbS6hgkswZt+4gvFKDX2KKmfU8Jj5slWaBsOGffE62Np6cDjHusQ539oweT46h7LVUF5fB/2QgiQf4XHRr44THg2bWW6TOmgv1H8VsbV5V1kZtygF2f0pJDxaZ35W1pKrXvhWXOP1szlh+Ju61lSa4tbK+Qt7vIh/UrGmyh3QgZzNjZBs+XwDCOwBYBv8yLL3AQABMox+y2cLPkdUXuYSH0lvAAYO8LJWM/0HvQVyTQJkqVRkaXWlIE2106IjKdSimxzdcntmxPxIlsOmMnRaLjm/zxOEkiPJv7qrsdtn6toFlV1xHeQ/IPLGdvJnHvYgesmM5Sjhxw5ZkcYo0j+ri1f1pb8ErAoB6OQXqRrDCekGv5roDvS51vudU8XvThYq1wfQoKwMTuiO1taVSONsTxzcTzcnyHEj8XmbqNQndc0D0caMvhh7dmZGd2zILxsHUpiEhxVfmItpjUvuG+xPqKxXPbA=="
+   "ct": "wB8zvpheJ5PVeRnv7VRWg9oIFEUlXRpng0si7JMUGUvSrIP/EgYbx2Wps2ZMOz3X5WyNf7PPFOCkhPzPHESYXJx91KoIwHT9P6n1gUH1zItTAd0cWW2WCUN69NWv2/8M9Z1agn8FnuYFrEOStA4Wr9ez9dNapj4xqr0ujIdwEZFfwDOwTk/E1QN1v6KZTtrS4RB0PavWRFtEzBfmmompaacHIZ6enfVZqx19t5ZfZpeq8L/uZoRfPFah7stFngAeVbOrlFOLkmL9V4WtZDi8zqbY9Gl7e2TCCLpSBGltqGNIwp+BljIKP5xtiBI8eNhiGHj6iFCE0Zd+2r7KRFi0WREYF9s/85tGfLIi2rdVuKTEaP5nRo7m3SWFGtKbPsNDOmZxuf2u+NA2kXLvnsHZB0pvkwyphlWns+ZUDGYZLDcUlrcVBo9PE+gDatd7MYoP7MnipAS+X7xFxHZm1++Px802RpgXPA8XCbt/+8J7QKWhZWnKqwe1Z1y2tU9DpM8CdArObi0W1+NSod73QQw3pzUJvqYzkvwDIAny1Wg9EohcX5Qw8Xlj3z9SluFjRRiPFswFTlhAM8eb9Bvy+ylRf0mYWxULcfMYzN0Q908vzre426g4NWfDFsrjDvou03gtmCnfBTz6VqvFjYcnSN2rl+Ax5CCxLFWML0UfVW4RwTFvgzoVbEwxlN4q/XIZsE/iHTaApUqg0wvGkVCBZ4X2AgqJ8XXQILr2SOJxAhXBxqzRuzzS6asQQl5PONcSSSe3NzWWAi8K47IzOqfcfmBAvk6787Y9seLc6NlKRSmC8w=="
   },
   "word": "a8188c21886a1708636b701d9d960c5044f3759dc26c47904a1c042beb16f0f6",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -233,10 +233,10 @@ window.CC_ANSWERS = {
    "770db7671b67011a86bfb422a4152fb3ecb68a32e2c4239ae3e28feaac2b3625": "Look again at clue E1. It rules that answer out."
   },
   "reward": {
-   "salt": "3L7rcmZ2p33rzjzMVxe8LA==",
-   "iv": "1akgV/1Hyw2KBf3I",
+   "salt": "RxS7qjrC63dmlCkVmZaB9g==",
+   "iv": "To6GqKszdcs75CpU",
    "iter": 200000,
-   "ct": "PjL+Wil73K3e6D5p5VVTdqaxaU5iSKSkw6VuB8YfEYqkfe+Zs6jTx2e6AFNqet8hge4lOC5kKGeEMRqUlePa/AWAAF1Kurkd3CpA9nNXRRoTh16MVQ6RpKqKKpuueav1QXkz70mOkPf/E7aspzs9kD61L4e4a1jwFWp8u8PWkM6q47ZO94aUljYoXtf18bMCv+y65huqoo2/VugOyUW/eGjNe4F3gs3HZw4ZyZOwPVv4TIt9S7qFUcBA3ip/daVC7kn7Y7WTdqIoduft5IqaoNDaGLJhBKjh6HZWCO1co0AZOL0kEfXw8s22dE0+Zk3ADp2LOVxvxt6QgxS0GD6IYiYHpzGpuh8ZMN6ETLmthZ95kmAZLIU2u2S03Hh77HJXVzsjkqVZnvEDCfGtr8kScnV3U4vDKcV+c7dCTYtZS1/QgC4k5pShdt+ujHpvTlXIHI7W1rsGZoLdzgdqICZQJevbqj9UFxrN7t/7Jl7l8GtyKxKC8ezasBpB6PAhWhv7vjcJTFRngQx0kpSiblULN84BM2ZRgsG5QnwCy7AVKN/5D1y4q0Jms6i8v2CXCXepMvyNuM1a28/G2f5SzbyUgMaTSwyJvuIvvV64z7c867ngx602GLm6ww8Vw/kU//DzUBXyDaPc4a7q6qyxFRTmaXaluvUfKD+NQDQrFBtrF7n2MY3HB8msC9jOCFGR1jqGA0lPbvDSzMoQGoe7uHmyTULCwQ24bP1HjUMMqt5za+kpMaYzPkT67ky4nD7LehLNqtplQLwmmJVTChRzR0wmFlonLamhbYlLHIy58MgkZps0KFt+3U3fXUbVd0eOnjMY1pt97ykoEK1ciZkR0VXc1TiCSGFLR/EzksN/ai40OAb0ae4k6U3EWjpOYj0q41RpctD8N4j4HzVN5wgFLK40kdooZOHSKQ=="
+   "ct": "CYFVxYFTztnyMrfO7LdEnsc5q6mwgX2J92Lo1PPxXq938//thg1Ncm9DzeBzQ5xMuMmPFb4g3LIHBJen68pqrvSm6g0EM1Cm44dz2Wcfl+27su8TBWGWYGjyWPGlKsD25kHDqELmG0g/iUJTMtBexsE7/29KGMcDNpP3GrkH+Kejubh5tqEIggK4Yv24qAhZKeV5DZr+dSrrpNPZSyIVs3JqPXz+HZ/MiDtCMMR74Wm+21qTKlD4jL90TEC9EhFILLEABuGiWsA4I86KFjCweRL6B54TjmgvzO+9QP6ve+4igX77jYCA/MwBwDNy6rM/i92n1SnWfx5dcCoUEb9LENGyLB8lo76tvgsKFtqnOgaO+QbZXQK0w4c9tOvbsolCWnxDEk7NVvx8pwOXOtQEVIrb1LrV/TtRxW89PI+Y5YXPdXojV0fhchr3P2eYtE40Gr7nggBIplMPjQr0AKOqHOqcrfrAq0n9IXxL5AWD9DHpcvktqiNOYa5FXiYSRDeFophdSghgW/JChD7yvj5Lf9BXEUwlcZD+/DJrrYGEkamdV3Cmj521nQ/2DTvynpkHQbQwVW+SDpo2i3QbnVJMVoM1fDRZ15ferpZnn/EOaT6JqoZRpf/4llzuPiYI3bTU68gn0VLjmR1kNtYljaEI8EjAofG+3yHoheJAsM35gJo+tEsROO0Wnq9XraqtHeYptmn1eiwGH/Mn13JxmRuOHgNX7Q6Ux2T/vnycdSzSKWD0VfOH5KHLoSBNKj7i5BdwNzZXWlXhJSo6szyTWMtxIIk/h3GWCJv2kgBkck89ZOTLyo9PZGa0Nx4+cMqDy+lnnxYk+H21UJUo1BgQA8onXGadt+r1cPVURHYkWQlbYyV5VIPGVBagNpt9DPOFsN91t6IlgDvlRJuUuUUlKJ9vFD8pM8K2tQ=="
   },
   "word": "4da1e669c1091de1641594449657dcb7fe2799642218d06e6ef147ad8f2b866b",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -272,10 +272,10 @@ window.CC_ANSWERS = {
    "e24b6fb6989fe20dd8dafb61ab617e7cb617eb1c2c7d4bd82ef75b3634b0a16e": "Look again at clue W1. It rules that answer out."
   },
   "reward": {
-   "salt": "5rE33+4qeX5HTMaWE6l8wg==",
-   "iv": "5RyRlrGqdI6HJgFI",
+   "salt": "sW+XPTjm/veKe57mFvYcvg==",
+   "iv": "6cMm/jq27BjKFYni",
    "iter": 200000,
-   "ct": "8ygEq9C7lCuKDeSeLuAcVCHNqWLe6Y+STcUygyZ999E51C62Awq6xoaMDXZSZ4f/rDN5be8e3T4dZMz/oVwQcJpO0Ow/SAG06Mqqyxn1RUUgKD5fJ2IMONRzN779n2YS6pubkUh85hujctthNhGFTp6WF4u64bXKiNzEbszGDCPOYfVF/v3Z2BWBaaBjQSChUVReg5CSfQ5AbLtfkhKJxvIWk2gEpcs1oJZIwEohj9shJmWhTthEsO7HtbdpzTxnc4Zv4hdFOmUQbg7sWA80NBBzozAOQYYq2LDbnRQhxdzNKGJPr6lA5x0+YAw+tVk7fZYYSaswjPD67/iyhkKBlvFiAlInld9yCtRPTWYs3MCtA6H5abNmvCAXtsQoxIL7RsD8MyxI//0kaJXzpvOz9ma5IhE5JKrup0h0qq3ynwV/8tyOJpUS2VgsF8woVOE1QIbCqkboIMhiOtt4BwZR9b7lpAm8Hc7DxkDQWHgEEg/EA6ziYQznBvpyoq5kgeT3QfDu5k1a0o/mmNYfVBhi8M+inXrRbEzOpamdVBhNkkIxCISpL3n3r/mPM58syw0bryMFH/POnievQYWbvE2zHUwbS63/TSD4uSiLZClWszp6HZe8SDIzjm+P2ZvWyPrWizCRtAjUBsVkDEMY4EVQ8ahUjRLLFwzEA9P8japUXeDZ05CmNTJG6EGF8zp6Ew2nZHqHYrosLsw4lhnbOXnv+cVfqbIXs5GJlqCcgcfTKPvNhDWBvUZsR2uGFbMdnALe3sRkZShCcbP9cGGa"
+   "ct": "RYDtKFlJ7d1R7XPqKykv185GJEsksfqHviiN8Qb31E2nxVXLAlmQ5J6gUUIDSsJ2GnSAqYFG2W/W+zZFjw4ZG6tLput5sDpPT2CQWO1gObc4FTV228GwUOu9MNpU+TZcO7RAqU7mgJvGwNSUftpiJk8Fd4Q4a96q9hc22AHmiA1jIirB5b4hkmtj6wrwgLEKMf8wRjdRJ+I5H6MDnG2ZYb0MehhcKCYcV+28WcbW6ITuL+472YpTQofm8TJMUV4Dc99kc+upH7/vemdnX6zyb1NeA6rAtReVUD/4j4tqkakcxApZ0oJbfhNtVc1s8D8mYJdAfjgK6RMxzs5TVXZTnTU3m+rU427VjPdG3MAlvWogVFWfV3FjNx26HuZXMyh9lATNBedsTJT+tvy0370ImXBUGNTL3K7oPkI39cs+LmFHXmdBbvOD94D67dBlg0bwpu3XmB4ITL/JTvr2JjsgEJgyZgC3QDjMMBXjJ0+DykN1rAeMmGlvmzB18yXGbf1BRLPE2ivBtjGvROInaPN/Wxd9RIne72I4077xKGq7GRTblknqwehupbxcbD44p0u0rahWC2UFphfp1r64oYZe/sPcoeYXCafx0lFQG0LYtcOFfH++DrargJ3OxJPSBsV3ZNX7z5A3xoT5cXfqwDH1GB54rLHQ7INBUN5ylBurDGSL0uxiHJlZvcGBhlldHZlqM/ahcSdwxUFbHwoXS7Kf5v6IybJ4txRrh006bKIbLKcLi947uBIHVeBTWpEHWEjnp8zoDNzhUCx/XIQH"
   },
   "word": "3b1fbe46d7e37ab2f706b87d50e4e00ba0a570201733f2581d88788160faee2d",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -311,10 +311,10 @@ window.CC_ANSWERS = {
    "30ea8f972d68298d1fa5786918ffb8ca6aa900bfa60687b4ab1f54de7ade475a": "Look again at clue E1. It rules that answer out."
   },
   "reward": {
-   "salt": "dGcrrUeu2DulFkiP9Esh5A==",
-   "iv": "eeFjowcYNPbfumnj",
+   "salt": "czMAoHAxN5DfddM8F7BBGw==",
+   "iv": "TqdIqCH+BnPzM3g3",
    "iter": 200000,
-   "ct": "9XNdT1tn8wINng8h4nTffIgQsnZq/A8RL4YPkKjZUTnjjC20Y8q4E1d6J8n8NRilvu+5/HJn6OISx3NP5KRsccCjbDGDdeiBoOxeDrE0PXb5KyzmDDMINj6Esxtp2Lbk2PttTPs2tvr4fT91ATI1BtgIpje8taepUr8iDAzYKS7jdIrXbAOTzIWF/+jXcr7+MW4IUh9M8ovvDEZrp85aZPYavbvzMLVZzEajCpa423LTEmcyi1a1XUjHs6Yrg7wtL65NWto15ZNI3eUwFL2Lxz1l6msK7Xllb5OcqcKZ92IymGf565AXCGp5aOKQDeeZKj++KNGJ23d9ukf2T4GnRb0oTnS6S57w2a2zhjQnrlaF1V4Bj03RvBupTKFA2gSkV2oOK1ThhXjyEyvoUazTAuH9KoECRX8d5CccZKDar+nGTzM7msXfjy8xZeFzOPu2h/VzeWCPRKq/xFTtaLmtnzga7mSfbPpapfxfhDqeeuXc/A1E9iuLAV+QFQvHpddkL8solQ+TqJImOsJtzTMbeWM4o3o8j8CXqpknLDCE2cuEuUkAM8SumfVKuDXZPuKDenh1AdN5g+jQst8GN7ZAcg/a9ShT4jgc9RAlTykDM/rwZaEbTXjTkU9+0WwSFrsWf/i8954GXZzXPNvfWkc+L2tBJjHGhZZoaS5SdoB1rfsHlBc7JYzItQbGmMuPtnXvXVNPUCd70ALkVSj1NiUIFXOu+WSw/xf7azDtwFG2OK/KNzH0WotfMTSH/cIaR3mvHz/WU558qOdwpSUaeqkSE4x2JcjAfWPQtjgNvI0kD5xrWxFDSTA6iS4bhqkgctPwqJr6ifZQXvd+S5C3R/SjAUjCldZ2YcSfZ0zqUUTW9JumNcTh"
+   "ct": "SXUt2bA9SIURV0xYg/3cZhwxM7HnIr7RcM4k8Rq5pyW33QOSb/XoK1akTRwrZ8zQHlXexjlMkgLrbbvyyVUgZRq5ag6JJl2njC97O9yYY/bdpYHi4aeYgng4Qe3/o4aG/UH5c4TuQlUfP4Vv/PKZPg/eKmZXXXiseCywuhOxYyqqxaextjgndBF/1XgvU0ZsmNx1cX7JZ8DxhBTF7Otj6wl47HerHfGipioWpgJxQ1VV3Krd8LPqA7OAKDXUdPh7VdYHODxunvtaav7dS528qoUeVIKEcuAITH6aXTNZDNk0za0p8mpv4Ie8tEyisQPuD+NQwmEY4JG0q3DxRiBBW4yUjnfChFtTuFzexJGHQqOv2hLeSE8NB06czU+6iFEYLSYc7SrNwPQHp4jFNjUX/yXyoq4XJ1jROJBLpsJ2gRBlKzSO7ehXWyE/S1S5ogLqRDywF1gOXfBMB/Wqmqs22nU+aWmv8gUkRiGFKVC0zv9vfOOHL49E0u3L2zm1ncc/ft+bsvsZwXfzWrWhdNbvq2IbeAp4r48mu9vkX/RebDwHKIGSzA4KeidIXlP4KQTTkJ1zbmh8nwfE1Tl6UFGOjwU2b4tpAOC5NivZQ2EDSFhPnfkKYf4gdHT6Blh7PbhzpXKi0WT5HlJCT5WnonRjPwSmYEIQF3L0P4qXbifMD/mbNiXB9aa7FRMHL4mOlkjA2rOra5+O0qH5vPOPVQAkEHfm7/q9tkFyHPpH1pfdJWwJcua52FFbY7sghJvb9ICrO9NlUSBgBfN+kKT1vQxPJXfoC59yjDQhDSNEGKn1DdCGaMzoxmE1b2DTR8pa8CWk9bpCwW/meTOWo9fr5nlV2hUP4/pCRQ6/YvkdZyiRYB4LJQFR"
   },
   "word": "54e32dbae19392c3eb3ef7309e9fcf60a1f3e566ebd01ae4ef56b23f9949fae9",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -337,10 +337,10 @@ window.CC_ANSWERS = {
    "1ef9751ef5f4e33c92c1bcb4b64902639abcd6129f4cf6c34003241941bbbe9e": "Look again at clue E2. It rules that answer out."
   },
   "reward": {
-   "salt": "5B8E2KmyV1p6so2NuFaALQ==",
-   "iv": "Mjt3lmFQU5tMws15",
+   "salt": "nb9OZsz5LopGVRUWS+ssBQ==",
+   "iv": "vIciqwPHOkGJ5vCK",
    "iter": 200000,
-   "ct": "fee7q0foAEWEdvP4hEBCsxlWCpFbYvUduQRw6mvvZY4557eNaLjpiDFUIkK610Rg1NGFa2cNPwIUUxmBAfe0Zs7wWIyzYzc0IMncdFGAOm2nNaq/Upr0003kdSDcpjGYSwqbUfLj7TvuJ7Zu06i9rdsAP1NiPtWU+NuBHTfro+89Egq7gmCP1VsQRQj8nLA8r1bf/fL4di/qMx0/I6xQ95pXnBoDu3Z19hmmhbQX7a0ijjVH6q7825AKs84PgozLChs1ezOU4l0N9CNFDMxFZMB+yZjMKMAK7jWiVOkib3A5diKRlspCmpmUdb6VYoj+ShoiKtUKsocfLdpFikhbn2jiEzQeNtHDo284Q2fRnXSVR5r8BiXcwx0Va38qtFx7Ua8lH27O1w4NCMq1W3qultRvQtCRbc+nvPESsq77kNjdqr4KZEaDEFdCFMI5bFxAm2+ytcHNrlVa+Pj4RZLNxcU4slu7Y8sLWF3SIQWV2M+AxKujPEeEpn6nIeHqlXSoSE+/fbyif1CEuz2kGyaPl/ORedU9txqkHiUeYjA236D/NVDB0S9ZMida/T6VwaxWfhBjnx3r3uaRIBCOdtXpCtWCugH9tdiBmgXSBZ72DnBB3jjX26S4u9Pb0A0TwceIeIAHWPoB7y0bK7UVKQSfSwxqKuBnncIfNWfWICIEieAfZV5lwttuLjdvdc2dojainSF5PEkwV12Up8VD4FATkeedALuo88EGsnIRjGD60AuqA8+mEJBhsE4="
+   "ct": "mVh2TMRybnBk8GqQP2nkSr8BuRmEm1Mc7zle3mVo31qHVnhalT3sZKHL4gYxJfvaCph/6Mtw6suww9kFLlGgY2EyrIARdrLnV3Exhj+61P77BhY8KyzIo9h4Bn652StRLOoBfsoPoVtoCwkVatMxR3kWk4SdZOoVar9HHvDgw0XnndUpCq3n8nxicfR0PKpRSkyN/WrcFTdR187dEVn+JGJ3p79ZJ1E6BMzsxsZk4RNXYJGy/lsVguBRFwMQ1DY1hgX3ta75YYCq6ZiEIGutGYXcwz5b1WpmgjyuackCfBMqbkMKxLnFEibP1LcNUUFv8SQ1+oPagDS7Wes3JkG7OVROe9kmkRZOu1vXAESDkQQMGvclxElkMhwqqqTKh7V5oapvGrjjE9apXjLlRTTRtPvXxNn3FxdU/6g3+Kr18n2ApdkFqVCtI4Ilnmi3hZzGOXaK1TRtzAJVc8452VySXe0IGN3Cs3EGrqnAEzSg6ovWtUyNmqpO0iOKmIMx7Eb5jwGImkZspHgTo4sPOtx+Qf1NdLwxY7LJ5c7ZfKdSPAmMmWlZGLWmyPP4EgoO57bQ2u7rKsOCLZl/kw94stq1/nfiZaz6297umLiBwoxBi4VvjDvhAEYK0aQu8j5XJFLZZ9dnaeoY3gCGf9HHKghkRmZpknQpeOBu/Cki1AVh0nc3HfLGtjQunurXd6b+Ln+sEpJ+kPNR9Srla28QzoTnF7uCl8YBgly9mU7Kz6nnhYv5scWkVCi6R2A="
   },
   "word": "cc328d7bb4d266ceb34ee99db247f3ccf6a07036385a8099a1c30be562af772d",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -355,10 +355,10 @@ window.CC_ANSWERS = {
    "de40e9f9970e4aa6cad5795f983ab3ac1042be5e5cd7c073eb830add260c629b": "Go back through the clues one at a time: clue 1, clue 3, clue 5, clue 6 and clue 4 rule that answer out between them."
   },
   "reward": {
-   "salt": "4xeeUIQxpbYHw02fNtlgTA==",
-   "iv": "t5KLeBZ4ufu6hXwm",
+   "salt": "FlcOUPpka1v7kvR0R074JQ==",
+   "iv": "7S6HCSgzLgOuVvL8",
    "iter": 200000,
-   "ct": "xEK3+ckUSzC0mBBdyOzAi/RHG8IknuqH5W6EWIQOdLB6VLeChWab2K/lPLW6MykAuu1tnB6eIqbt3SGT4n+oHn8uLdeBL5x9FCftiTpcbsq+ame5Awx5hShFYmk/MzdB2znh8JusQDG1rVIFIWjW0IXx2TQAvZgo3cskT4lB0yQ50ZXHbDlT0POUECILNHuUh33WwGNTxLsPavOFq/cGmBjWYChqvmxYWS9hp/U0bLGcvNJ0xJXgfqg179EHeDP1wM6N0S+wlM0g27oW3cJY1bZE3z38wM1id0guhyAYqndXq9dbUCereEGJTak3aI5ZdxfiFlRVQIl2Dj//HFu89En/u/UQdafYhMEcY4khNEZtPe1pjJ2A02Uby18mCCZuZWoNPYR+FEDB952O/mgDi4eZnwiMOnabFEvUR5eCG/hzPA4V/+k7BSSl/isclFuQDmE6bHFGZic/sCU4uxZDKcfvMLBLWrrPSkR+vSPKXmxQYyg/s4QzxYE8+UNJla4kErygbaRLSuD+K3gyWXyIcQzbwoxZHUtH0L35OvZstbRIRbrdKQcuwGlmead93KSvurm0tmzho59b1xMQr91l1LoAE5aXqUFXXRiW0cmIrg0en2/wvND0BiLEGba289YhH2buBbuQav4B0pKxiQ=="
+   "ct": "PKjt1ddtCLFdCdbyDCjoWmFoq3K4wJ/pgOVfvKqNw0TFEwoHgAahaPWIcbbmPmUB6DjVKcMk644PPgrt6g1nTlITachmB4JUA1uqMdgG3cJrUwl6Ku2QTHMUzXZD7OiEf8R/OWxMFwVNJlZtEDJXAYCyaMBoac3OKgs/lHi/fpKpGX4r7AdGWA0sjx5Sq+XfjGVYSBnm5ik3CBIAMGJ55Y27h6mqy+53TgTU1BTdlJnPUFkV5CLSNrAL/24TMl9ln9dT36gTZekOgNmEIXXtgrBhh8orlmZLJwI2RraBs4Q3XFvVJrJ1yMBLDnpBdgsasSSl9QZo5whQTP5QrFqLYQ69bxLWL7Q0LAzNSfOjKYSlXrM+UuKHWoAwtSNxmOZZba7D/kmJxeKRqppfwBWdd/fp6TdIsYAIzc+2IhTnFLOOu5morvqfju5CsOOcrycx1+0Y1RymT/75v7NpQtxjnXvw5YY1r3nCChFT0GyLjXkhMuWx5QMVa8Of4079wtIn1/adi7Q5BAdGnLE614H6U/XpgPqhgY7uSg6lCVDRXxH//miHXfYcb6DvarVPWzFP6fDpkdWDbo18nYzdth5sQgi5H5ivae2wlltpJB1VAa5cXGVJw59qCI+P6nd73h1leg00FsrPBRucQPXVdw=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -373,10 +373,10 @@ window.CC_ANSWERS = {
    "58766ada02153602cbbd74cf33849d8cec3d58557b21a92dd3c12c7b875d246e": "Go back through the clues one at a time: clue 1, clue 2, clue 3, clue 4 and clue 5 rule that answer out between them."
   },
   "reward": {
-   "salt": "UtoA7vDj0NnuepZtf/ZD7w==",
-   "iv": "wa6Gx1yUXtD/+K8O",
+   "salt": "F/MeO7w20bQUJyKe20gyLg==",
+   "iv": "8Y/tubcOB07Ve0rw",
    "iter": 200000,
-   "ct": "fZtDCseslxud1mHN8kVgvf7CLH40ceqfM1dDxuxYFV+MqYvfvGQXMW05OwoxlV6yulCJmPFYVQlOEROtRAgHsoO6xsvDyn5EKABaLSz2zcFd1qlqU5LBlfnlGLEL0CxUb+1ia04NY1N1xwb5xk9EIIWcp1DqyQCKtzN4kWncCoGcjWS1j8QAI8mtRQ0/e1XFhoiFbFjcWoJB/nEMHz+unQ2XqbIf9+9UwhbtA7XdwVMQzXctDDK55Jmhb/aUY+f1qql8AtKOVd4ES8/IUxP1fTlE7+y+fTeZFYbWB0O5BVfawPG2YZVnDAqkDs938UEpYuOdJ96TUmUcpOZf4ZV8WbFcr7FKS/fmo9fSEvAj3Qpp6HdGtf5UfmXvOTECdcQr8eERRCcJxGK1cj+pX93/eqmeP6XFP3ZandoNkzxKARCqf4PsdL3d518Fd/XNHOAOUzOSVY5xQwhXPieNS39sBL+Q5rLzniRjerRwjD6Q4WAa+wox3QToF07UtO/xHSM3KDJdBHd3TVuFtaFf155Juc1QBTNkNYpr1c31buMpOV5JEF1HA4kFBfomJYsnXBLheELmsAs8iPZwaXZ+upVmDH5Jc4p2NvnsSETKD6RDu7Vclw=="
+   "ct": "D3mp5Ys7ExNnyoTRqQ2MZDKqJZMG/t1QXmcBaLWrRwthOK76A2cf8CBeYhnV8e1Ujd+22lZbqC01ltgbO7HgabCZCn3t4U3qVVeoCsjEaGiyaOihULtH/RUTGojnGb3y8fJ/8nptIXNbbAIOeBjNjZtpj+4UzFFlcwUznpde+szKsBRh5hpszbYb3ZDsXfC0Ly42cpG7pi4/9cbiEY+b6fp4mmmQWUKLJAdNcY/hqO9w+HYWY33lrOLF5R8z2tUJ3sy/PrPO5CT/Mh5wCLaSL+b58sImqAsn6QtrITX9ePQMmwHECmZqbCDIrt0bRA7rpvVijCdkxllW8XImyvHEErFnSktBxhaXWl1w1du1O8LvLxPU9QPdsWHCvAPKcDwRf0GkUPUN4A+I4MMVhOzuqkD0SlSxF8KLEoshcLT+ijCLMlr5HGBaURIOdnSAO0HRaMTlZc3c7XYlmY3nSoFzCKdKhOaQ8pHC53Vt+Ou8RhQyWVOh/I7hmQRgtxNlIJyz85q616t1g52IjmiYrvxOpf1Lbp40m+z95dKotdF0EqelOFMsLIGnK7F3zd6hjL13eEny3hqscDm+IAsMq0+In1aBrriCM7rUqgL1jUPiMgl76g=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -391,10 +391,10 @@ window.CC_ANSWERS = {
    "bfde33cdb80666413b018765ab6f71fef2582240ac8162a284f0c645a6c5fbb4": "Look again at clue 6 and clue 7. Together they rule that answer out."
   },
   "reward": {
-   "salt": "PtlGBA8jTJgNTSiyjY1+4A==",
-   "iv": "5+zVPdAqWJW+WJrz",
+   "salt": "5J1BkWNQOAWhnJj0B40t1A==",
+   "iv": "VbMgAtHDrvIkZn12",
    "iter": 200000,
-   "ct": "ZBFnBjsNeQhRDM6PQQTgVHJVGiHozXS8dp36yHwezpA9r2AjwIU8ijrU78TKT5yYJKb7lZzLxJnk9ckWhGWrYpIAD5D9i4BDswU21jw3acaKFwpkhU5u3DQ3rakUIFl98IOL/mtiFJBBuFTO4njq2/zu+XvK/0SGiFaCFBpEXCxgkT/wv2PP7eOhlco2eMoWlI1anqAKzMKtgij6roT6PLNnvhAM8Y23zLB5VwvN102cujFUURNHDPDPBG0P43kJ3ZbpCbds0CeZe4CfV0NcUl66qrLEesMGDiDLqbFujcnuVZbq4GY3+BR9hxDhxHneqVsxXHyrOxmJYzf2ipbZNek+6WIhKVXgoWr8rr7iVcvgZr+iOAd8D+AStUwFmemtq/QkGUoP3X0DDZk6yQaX++qZZboalOYePPF94XRboaXyEUCJqdz/WKyXII7WI2FXzBfui4VFPzYUMrNDRwlrNRXR7RfRLEe3yp8RJKDIXM4btNz7T/J2sLEIhJvDnW3M/SPYgeBkZy3Gal/IAFy32TiVWUorr4hj9s/Ywd+t5le9el9vK7ArVrpHkMB4+uwhz8263UOoNt4RehPBiw7yLLV8Zxh177AGInhxyrAEUNvQ97pgLX/Y/vjMYnbe2++uunhyFDJsDBksU2+hcpc9Z0fikBsJ85TXVNtkmVcB7N4QyH3Tkh3lvDsO"
+   "ct": "lIrZ+ICgtiYzwrc1UhEQMTJ8meNziAUphwI+99BwPoJ1ZqOtpzG7NOnVyshoabGjFyFPGI2iH+UWXaV6xAYkTeOZt2/qDyu862bkQwvNuTe5OxLJEg9wCzILZ2B3y7V6xjHrLD/EnL84Q7pIquVcDRJM1khUZKdTUHqcoF8w0SIKt+F6CfG0x4NqOZlkW3N2Ka/lS8Ybqu/tBN7Vi+VPNVIczWJgwl2G8v3ekel12nUzLvlZjc8/RlWqmv3HYwCpL2L9c9CEwW4Q+nJsHGwrQ+2n9MU6aVFRseyKWQbUHnvAEWDBhrDmi06moGP6nSTMTRzlwDpdl24o7U1N6fIHSaOnLzqTiiaPVu9qrdTbhFFyuIhCRkMaFIfVvFRcHTGaWL+7KYt6mOFn2Olg7cVUoJ617eDNeompNfsEY8NzeXbi1bgjbrwnxHh9Io4iOjSRYDkjibF296RnJfyFj1NkXZIQ6z1YUimjPx9BgZ5sokKNJLbYiQ3yBOqAgO9SeYD3cJJ3qkoVPGAmKIwh+CndS/XdLgGH1rz7aXrMWJZoXuEY+V1rh2ovsa1L2J7m8gMc95zVkgTR8BnWeWbYwaX2YrmDS1U4VHqVYnNuJfYOx+3rDj62D3gJSEOnaPYVK13Rb54hSBWDtQO0izfuZv8GAzxpL7mhQK/SViV3mAEztQSMMGccDlxmf7WL"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -410,10 +410,10 @@ window.CC_ANSWERS = {
    "2048c8f7a6a8184db8fdb6eb07fa54740ec9579b420abd1a944c2cd08ba37a30": "Look again at clue 1. It rules that answer out."
   },
   "reward": {
-   "salt": "r0BWhBxPh3lwamwzgtnNRw==",
-   "iv": "s893Izeb9A+4gh/9",
+   "salt": "VyUne5c5aHmfrBtGuDu74w==",
+   "iv": "sA845LD9t7eONYea",
    "iter": 200000,
-   "ct": "krBylJVIWQ3gu8z8tPF+bk90RAZZLqh6Ay4gL3J08JoTXXjuBeC+jA2HLYexGPrjGkLTDUn5scXIlcD3szq1t23RQpHsAF/tuhEcNnvP1EoLVhU1ZSkQcqykVOJEtdYMSIy1Y1RppDxJ2LP6LZg9F01qy8cnbhdRdoUm6TbJSntLXXHRP7n6j0JYMu17R8+b7Oz0/fJnASPFg70oUMwxQU52yDGQDSUqgz707XTCZ2ui9aFN/pE5ZNwnFFTkcj+aLqHvGclj76jacPtkWY72NPZPlu23+HUeUSffWg+suQRJ8JnG/MELF1y1FBfCSeBUA3Kl4OhG09G2j9K11BJTEBgO8FwURxVWGkqVNYZJ10SovV6UlWmEiyO2zuvvWEWBrFusQ5PB6SnP9UI88w3ud/4l76QJH9TYnCGG8IAeuFdcABnvm+A7emyI9mEjpaHaG6Kg9Yze+nksfU4L++TsD4Ye4xiZ2cnQNnrx8HxsJwK0JnHxbBRaJP5wDSAC55BiHkp5ObWAmdTp1U96vwOKoCWZ8Ye9LuJ1/RlNerWk1q0WviLVU3a5sFZtAQ=="
+   "ct": "mkpU7hsVdS/pNSCDpkWwNp7iCgZEjygAXKlXC3Ayx6XAyCEn25oV1He31YczCeYNiO8OBKjZ0zkGHOaoP1ivBi29xhdeBEci37213aE/CakpM/5MvKPi1jU7RygG2B4GHfyckAvT929HB7MPPegnTjmlHiI3PwpYb+S5TJVHameni5Yi7pWtRBopdQjlQS8DCu4pcDiPVBSKevClIM927v33kz2EOTTcRH8EV+wMCFBJuKXNe+xC8Jtdw7YMhjNex0ciNbyhBDZCNz/ogNffrVnba0A+ep4Lq00wetLf2rz9UQReXkMn8EK7oNJpEAUbJdIa1F32G4FN3l+ajLAkp7pUCJzuqiv/ANqVNLBBxOAflxB5Ad8SKWHdYDyweWGigF3h0D8D4gskVYJJg0LqAsgRE7iqSTwWgVclgVRcUHrjNlx1f2kyRiOCOubiVO3wb2RF8PfjGEIsWxnxXjB8w0FpJ53rmVQGNAOegJkCy/OPC5KP6y8Mwimyz+fGzAcVGzgkCSJSK7BMNRTSCv/FxEQWXhZzUCGV8xWM75dRoFNGyfgpLgoPU08fIw=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -428,10 +428,10 @@ window.CC_ANSWERS = {
    "69e47dde7fb4f076dc165c39f18f7be1abf83a41b1bf5ae3e7ae186d1e3e0e95": "Go back through the clues one at a time: clue 1, clue 2, clue 4 and clue 5 rule that answer out between them."
   },
   "reward": {
-   "salt": "D8DS2XO5sh8lfGQXxxBALw==",
-   "iv": "qo0RaQqzukz11094",
+   "salt": "qJEcH9NOxQQim8d9htLDaQ==",
+   "iv": "q/79brYgHS6GTOtv",
    "iter": 200000,
-   "ct": "Me0Nlj6wn3cMQIM9XImk/feVa+NHAiAF8DwoJcJshnF4mJP7oxOqfpuDC7X+dBL+w/vN3UvMRxK6go8nCIK0keo6UOzLMdmJWRsA5R0qoN9ZatK8sVF8k+ngszC28w095CdL9QrvPKK7sTLstIskLEsWJ0noaogmKqR1Ynd0OVDmAUOY3g7NFOBlySzgz1Y1Z3e3XWLI6Fs4lcYSk46TDqphd4DCeQ8s7CGd+UlBymcsWmajPjZyCq2An2nW/DdXr7JDeY/Ji1usMQA/Lgxk0wnBh+TcMtb6guOfMXBoKlJqelBGv5H5+diYH31E0af+QrJv8rqsgV9Q5PjKmKZrO0/ZcF4/oJFc9diZtRfgK8uLigDt6ZhKWlC0MqHI/6LwZ4gUbjH/8xGiPDakCOlfrUjQBpUE/fs7EdYBQIw6ehuR0FJRYuSOljaDkMTHtv9hpi4ivarH9UAMsDyZdCKro7ojepjsSZYRW/ANGvB3AN0SGmfsDomli0zIrxB0jSfyg2lsXvayXdcMoWWyhwaR7G2g27ugJmE="
+   "ct": "ocgAYw/zflN1H2PkgIbeoc8NeVvcggdsWs7gJiWlhjweAWt470UVHaYs/yMis+NVbX/LbYRa1HkMr9wSE9Xj4q5FanCu88tHsSHchk38yVb7T1NE9TOnEJrIJy6D5l9oNAFW4pkmagNhQAe6Cp3wT2+eozruJTB1pQWn4D3qZ1CcEPCqn20+2ZVfLv10rCUJxJqbfErLmxxcPQ86wns0G8KkE4Jyl+2HBSWmzLzYAdj3+B5VYZuw7nVi31kVGixgvFlyKgGkU/tyFzh3QI4U6KB+1xrta6337O9QisL9q14kkmqH6GMIInlNeSZyuPogexXjnfOWvNfPc280TvgbmEjpoUjrW+F95Rc2kKEEycvetyhl7DMnx7wKFa32ayNkhQa8mLBFyFYUlldj/GHL4S33ktAi8iXXkKlb0o1dED9ZQ53l31mSqI9RP+/Myr4dGcpce7UJOeM1Gi/yH3pJwyhZDGWbNtlZL7DKNxt7F2puiFxVe4RdykIOcFBqtLiVv09z8qvXXvw1fwSQszYwoD+RsxHvO5c="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -447,10 +447,10 @@ window.CC_ANSWERS = {
    "cfd634e6a4fe47997a4ab8bc0c04511d8be3661853f25f8e359b1f328f1f09de": "Look again at clue 5. It rules that answer out."
   },
   "reward": {
-   "salt": "74K/c2RYpCQ2eQ3XOEed9w==",
-   "iv": "JIFwT4qskBNannXL",
+   "salt": "ZQIp4MPoBL/JFSJCChLmdQ==",
+   "iv": "d9lt2+ClqeNt4jNu",
    "iter": 200000,
-   "ct": "A3Txz2i8lNl1BgZhYQdLnoNgRalJLxrY2PEwh/i8rz3BOUEFww4CRhA+0GqtYNbsz/eEin1rHl6QRSlCjsd6rlEVtSZ9erWZP664mznccY49P5/BMTAx8+D2MsZUoEtTnXuWNWZfC1HzEzYE+mLeDABUSZUqUemUXcqp/47DX3ZHV2rolhSaQz3y8PslRbnmC5n7VcWql2XSLcm75PykECnFpDo5DC+X8Tfb+3jpPnozvXtMO9fEr26eJbwhs/U8aAZZThAZOYjTRyAnL03NBBNqfDwwbJv8nxzws34ibx1OrMAfiC27c9JUkHbUCRaD8WOAqgAFI5/hMVP6hby7HhC8iXYdcSL30N0lBqFd8Fa8DTqkHQrgSeaOcb5uYF/YUk8c90Oak+C3jpFmhJVamXx2h1y9u9Ef2G2RlTljR1zvj0pGxpjG7mQRmgI42ZvbsUkgyk/nLF1gCum0ZIZ2Lt7g3Y3a/ndMt5gOqaoalqG0MYeuqLsn3RN8knv48pA3QLnXQSgk1RuEscXbMDIZ53Br1s78Qh8ggGOg8BEyr5dm79Pi5LtC2yL8ndO4QMHq"
+   "ct": "neZQ+qqSd6inVaIJ39bRiugE9cUgSoARSrFjH8a9iH03Auq8wtmlxTYguWur5wQsRbrPXoyFD/xwDpPrg2eXqDMAaRMJnP8r8bJuS3X9lk+yH1r4favyS8ppqBPuxuN8KcubKWq1Fx6SSTw7FBxM5WdApovkXH73l0n/n4cGZyrK+zyuPhwgoxcRc30sQcogZNBr8raLK/vx34ZuafNrruSsNahWhnaXWXnu/0TMGTsefY4ScIxYr3c8pglOiI4M0jrvg06/KTckT7Xbju7MXsqw+qwa3V6OBuRh1nzYs4ri9ILKFjktxkNmFqC15rc71XfQSVhezY/QO4l4glcWeQhi/a6WQLND21oMHv9E6PUxESKN9K2mqS5/8AIIpmO9rjPPo3xIHrzPMN/afRcGkujk0WV0BlJ5LzJ1EUUAJsX6zWAackIzFzUFdz7STTDkntXM7Tg8CQPSPEDtS4nX7fXTC4oESc+Ocmo1arieI7IoAKsloainMrZMPDP34drpxRTlMqcil2/UI5wl2gh3ig8TUuUDW2tUJrIqryUmKXJqrAg2M5uKryTFPbzUcDLG"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -465,10 +465,10 @@ window.CC_ANSWERS = {
    "9fd35a1d236694d9f5eb70c25962d569ad864412e3b4cd1d9804ff8c2a70eeb3": "Go back through the clues one at a time: clue 1, clue 3 and clue 4 rule that answer out between them."
   },
   "reward": {
-   "salt": "ryfSoVC9XS3cv5czT440tg==",
-   "iv": "XA72DFIM2B6qg1j6",
+   "salt": "il0KVL3qa0PG69XM45F5xw==",
+   "iv": "cw414cEI6I6pVXIA",
    "iter": 200000,
-   "ct": "DhBFgcT4IABaI/zO6YRtc7lLcSGaYLGCeIeHKSkrPZm4z5+oTeK4j059uAiJbto1cD8KN6L1VG4Xupc6IWoKOtLym329YQyUl9tlimiIF0rzjkAiCfjiENw55xqRIrW1Op3WB+UtF/mAe5fWqrY0thG0MVyAYseTIB8AkpmRuBcbSSbWP2fO/Fk0c3XGWDmL9aFInQF2+q9QL4IPAQ1e6BTa5L1VJ4JXhxIechq+exh4nHa3cwHSJ5A9dTBz9Sacc5DNs+HKuDeRd5hcbKWpSUUd9naw4IjMG1TPY2rGcWYCCYCQcR+mtJXuUlj35RgRb32aXQ/qYwoiSBicSEYOBIu0qfd5ut3X5JjfABHLmYKOuBbWsUSQpZI3Kmcyr0aec8MbrH2GiOrot0zhIpbKb7dhEtEUcD/BrC4CkHYvTbFTVd5trAOa5cotYl510an8Rn8Y/hrGW71HHPaTNhHuxozp8BlezymXYbJo3PMvhC7e468V8INxNTw+IB3DC/cD9gd3k2oTeuejdQqpf+6hgy6O3qPUHRMdESecGJmJ9djt6DCX5BA3nN1knVkNgrfWuzYcIrLBWkZ7pWWNxf+VJJVUQlW5hLyqRGRI1RtdB5DSajX68qrnxbdTSlYrWuBgB9MpGprJ0A=="
+   "ct": "W9Nof/jnqEUE9sEzzURqNzs/zWi0vp7UZj9XH1gdZnlHhdnfOlJ627AH68ndOeEp623+hEWPx3/qc7yF/Dw7gLsk6hAQWheKXFagBxOtX0fQ7kL1/4CdFynqoYSi4QTqQen3mnBbW5cn98Jc6r36a+JfPqljDBs1pdlj2+UKXX8uJ9ml5NULLGp1Ni9eoBYNl80LufKymXp1UlH/sar+uBzFaX5++jsoN6xVLejA3/MBkerVGirhiZZ8F5x5EBDiU+kskS6ewPXBlmh2RNvJCjOrY30WZSDdD631XlN7iZZy1x/vqOHy5XQQHuXwsLuMEdKKunH+TCMrTkqwEP0nP2CZuAqS9PGufqZ6NUV9YevL+CCy/HsETWdRmPZATzI5zafZZ3xCwtruyZNZ+ZRc7jtdj5JdiRV2SdbGSFA3BT3lZ/03Z38nOe0NzeYn3kLeJv9jNLGL/DnYUoXHPVRSfI8Uj423P3x5DV6toI1f+8R2G8+gpyxCLstLAWGLKI2vRLmDSnZu9DsI3FNy38a+6XqWvdYFvV7co5qc/yWi37Jt4O8I0leDkLGu/mXLg2HrHUKPwevBR8iwaMPePBLRnYqm8yVXPWnLpmvZ+Q/b++UzKr3nIQ8mo41lyd44jGXOH2TNhrA3ig=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -484,10 +484,10 @@ window.CC_ANSWERS = {
    "3a08ee094269e5e4795cbedb50a82938eeb15a13b1da4546941b3416c18774a4": "Look again at clue N2. It rules that answer out."
   },
   "reward": {
-   "salt": "0UIPZcQKVGstgblzaGPf+A==",
-   "iv": "xDtjRrYBftpC2+kb",
+   "salt": "FoCLL5aIe2110wecam7v6Q==",
+   "iv": "1Iezp9mfStUM3Bc6",
    "iter": 200000,
-   "ct": "2nPkuKTSlrmohiBoPeG2ZchkphA/lRbkr02Uk+c1BrOozloOJR7sMN4kH8iROt6sYnk/aQpHh3yow+ezgh5KfDKCkkXCddI2zP8uKDj+PNzKE8Bu1VZ/ToI6zxtghWI7LwXCwDMBgr7Hrn9YRBcgADL6uaHnHmkNQojlMzzojSH9/2xVDd7oojm54C93c+m4VqV9NeXdskfnXaw9MVHB74ofMBuN3FxrqsQ3YpXG7plt0BuHh5xqQW20wlY230i89+hHbyLOjuAGagfSdbzBtWdH4ZxRLEgK7mKXxhd4g0qLmlg5h2H/76leagC2/sGtZwTe+hXdNw6Kphb0+qmgbShWxrzvBnd1szee+iZ3rB6hxUhnm1u+VZez515VEmAIBXwHXj7bgcwi5mp8YYgdHqJrQeDDPa8GFUXTGklrbw90Rc+a8dJ/6a/X8BTgmJDtd7RysHHzTQEoyoy2nCuRykBVYO9myXKdZpx9JSWJVPgKJJ083kT58ISnYtP9ffVE1ISYnakN3TlF9mmL+k9GYgSGlg78AM7Wvh5EnuweZg+6bwoFxp050vmGjrXIxHSG5p+wipsxl2NrErgmGLi38mor6cQdKdqrrzoc6Ed5d85AcwtcN70GdF/yYaahBN3OuDJGyeYAwrGJAuudzNzOyPgxf3fS5oNSeP5up8Xy1L7qp3uq615mrAJQK/860xBDPEiJMkOYLnpB7kziItPse6WM6L9hJA=="
+   "ct": "RebvVpJFPqaH9dcovijtZXgfi09yvgt5cZUBgS1fv9zs8S3KxadPlbSVDIwzH1Tm86IxH1j9xPTmF83J627HJ+COo2ofpOddG1l+8GeNDZGOLV+dmA+FdCegTzdTefEjamEOjVImCx2/g/a7ULLYzsYFHEaEDNMnS+ZPd0DJGhS7gE6zGaMvTI9A1fLf2yM72b44WrygNzMKxjS8rhd9uwazLhThDoTNfzNfDGfqBcyP7u73FGhh1q5oNFMJvtz/6mYq2Z/INx0htKHUd33wT4NJr3UXFU/my1Jj+UkMmCm8ZF+a971VgUfwBx4TLbg4XocpzMa/tIcq29Lz4jIkZMAyv59TYSK/Dpr2PJ9ukSb7/4EaH6SFzBAoywvce2bkenR8cnWs6l9AppTeOqHGvOqNzqUOQU8dkQe77PQBDstVLptrw8QNbCp+FUd42ORP4Ia1t1HAfL4euFerU6S8AfXQsjZYgcSzGVM5mCIR079ofa/yOCtZUnrfbR9tu6iflRtlBGpCOdBaCC6MpSMMSzYMH+A9oWdPlIJAPW4W64IYUFVxQrA6T0ojMIwvodPa0GdJ59jzSEUXAeWtKhVzNXlPZXk5G2Mx1A8z42JPXepPHf/TwRTP6mWauU8xOCzRe8fB50UxE/Kj2myuUYo5qlwgvwJHsijPaDjz4sUIrLr1iE0AoeWgIjeQBudlvtIK0AkvxSsXLs+8qGhsEUfRR1bStQP8Ug=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -502,10 +502,10 @@ window.CC_ANSWERS = {
    "8708f010250007266e1b0d1840348a1b5edd3ec98aad40df5a0f8d56027c4b8c": "Look again at clue A. It rules that answer out."
   },
   "reward": {
-   "salt": "GfSVr8i4b22mX9OXHyC99g==",
-   "iv": "StQvhZzii3j8hQl4",
+   "salt": "60XCpJ1XdHuSIs4n/4dJQg==",
+   "iv": "EIUsXYa4DfzSTJAK",
    "iter": 200000,
-   "ct": "CZGlxw+csqBmWvewIcjBxZvZ4UC2LOyidqCZ/yS1YtZPyQ2grBoQT4hTBGKaO7f5n/F+QAqhrVRLhnxOtMLWcA7M5CpE3e7xwafa0nyl75qQpzM0LzjkRK15n1dB9l+Q8cekHKLg++YPDG1oqeLNAsAq0m2feIlmCq6YhUtL01MQK44ww4ZG/a+P0Z9qZXneLd2mUMmrv2g0sIu+AEo49TtT9JgzMsDRbaob6ATUeldstHQ52MuoVRzp8AgciTKIamkAJ0JwD9DhUsDm6ZD9OJcH+W8zLktuNxeYT4kKvsm067ITCaUPve57hlX0Cg20MoSZ1wFRHowXWdwy6nKXxSTFLl3yzoLJiRnsLBgJ05WvVb+EDmqOoWJmlebjLP1eSdP5Xf1YkFkWlu8kcQuLY09K22A0o8UktVlLimA++VqnyDJ3lxoQZizo3TjuqD9YhgLCABcR2Vi9fKx6lz+7hALeZP8M6x3C8q3UqAPSt5TA5ymNFuzb5ypavt1DKWB3fLM7j+8Cfv8iI5RHu08G5spdTyCK4WtrosOidxUL4GDDvoDQ0FFD1kaGXimZSbtmGCPLYYi2NPEyeI3IVGMe8IiWMm9kstGoLwyc0SLpoXtK7ZKGyg4WOlwKCtrNinSGxOGT/MDkx6HhQQ=="
+   "ct": "weuGjtdYGyQcI7jPnwogaD/SbZO9OL1ZDgcbypnKSdz4Ld4CvjxGWK6eKaaRUmum/+weDvFjTS1NDxS5U1Ikgfr3eEaOvWiRzEmcx4BaWKdevNm73NWhArE1o7BckWnwkGTA+xhy/hAy8kGmC3Ia5VwGpBDSm45p5LKPcigN4lcA+RvWg7Bl7d6Yw1k+6EKdGsZ67TtCD9HvEi0aS/SO3wX1yFt+34KkcwruI19Ob9T44S/YCZyxQZAqSj8dw8xvHbTYkx61e5cAScID9YzaCzfp/WJcA6BhlYMVUDxSslEEccx6h3m6IFZMCM+SbAYSYz5bJ5VEdLLTGP9lpE8WhM3w3/AbTOpN6dvfDtj9E8lajaBHaZeUFMxT46kSJP5Z2/g4nSraw+nisA4t9u5i2zhRTRchFH+DLe6PqLIxbekiN39dCsmPLY1CxcZqVxvMqquDy0LE4So3C/HMUMwqOLk6MAGIFw1+lwjwprA61g41Riow2l93zmI54s5uEAJfKqz2iIuvCVvKhqCS7X3r5g8nbPuFJRWOvVDLqDnK4icvo60bCBqIBBq9e1spyFaYtynEPbDkJYA3zz3hLvJA1QniA4Hf1MAaebFNd4s1LzIu5nRN5FLLlVHsSZ2XtYdLnhB0eBEuUL9A5w=="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -521,10 +521,10 @@ window.CC_ANSWERS = {
    "aeefa42e6a886050db84411ed7787207eec317dee58ff0752bc2e107c3d43bdb": "Look again at clue P1. It rules that answer out."
   },
   "reward": {
-   "salt": "0K6X4iBz+q21LYCSuZ2b9Q==",
-   "iv": "HTj38c16F6smDaNQ",
+   "salt": "bsT6Xcy7DoJsXmJW1AHXAg==",
+   "iv": "mmFB7ItsLk72DNvP",
    "iter": 200000,
-   "ct": "bOyr9NkdYNABKDpGlLZJROfkcY1/QQGhqtSVhuj5/pH/RIK0EPUN2eeja9EMeCUhGSCi0enaQp2xIkpzL69IOzrt0pZgTu+XecB2W4BvTY+J+kqS1MeOd+Mz/Z0hg7vZimB/D+s+Dy6X5SC7QSEHa7HFwRJtqCDyZaxEoKnlVSCM9yTTOh79xy+klijk0c2dyCglnmbUzETnah8OPkkqX+5oXP87URDPxoGXYlnpfM300UBw/snHbwoNGojmFAe5YRynaafiHyP1dEudIjiNfi8fx937+fOB30gk+0SLTm3nUer6OwW5lcW4cuo6m1eEQ2J2qNt3HKxnBV7MORfUGj7OgbYZFHiN6IL6ZEgs4IQR2EL9RgUZ9PL4bL4Iv6brm0Zk1sHVv6p/P7K70biKAIzrx//bfPoLaPH1blUVE2ZbrUNW4lI9q3CDPlLV8aI7ScmGYkCoLcUxFYkaCe9uNY58up43a6ZP/WlA3YqhbReuwjGJonO7YZgkvhq64ulmDTKneQXz/uEzvEclrPz8We8i597UOAxjIXxGPA0PtdQLL1IQSmKV9uOh+pGvh7TV4C/XVI6HofQjOmuukcXyeYN7wsbXJs2Rb6m0BL3NweA1a8uJyPj/SEn/g8f1ODdIEQj9+WxXw4/ABo9RPFYFTjysSWZz4on3mFtfvX0amn9C+WSx8PaqwnCo3glywcrvvVYrCTiuyf7c6uycQ3Dc5pRPk8YTHkME6OWQIM4T86KjfzP74CATd1GTldJSi1rGd3Ljc1su8OzlvCka8V5E4DV1SAc1"
+   "ct": "UStHvTVhNzppHANNZOaDOgGILtDUIwr053xga0v3eG8EGkTeJpL7tN7SkArXtOdw7ORk0mMlDKV/Hm9b3lsdp6t5UWKUIHTqZ5oWe9x7X7sLvJt8d4DJFHKySslE18SajeQmm8YcI/hJhz8S9wu/NgTe7RHzrUxegxbnV8qQm7zx6J/1IzfABgne7JdwcdLXmNOaVyUc3l/UbQz2ur5AfQTvnVnzYcf1eLFVLfuyW7OpeBrtVmh4G4DC2872K2k6mk5r70lJSnWTfY2xC8Umn5mSjvhW3DkijS96E3UC2FC69D7Okdcr8E1TkZcWkduVXHNPvj5V+qwcoPaeJ8AprL/mhR6XLaB+vSRhFtGeF68z5lNP5Ts9b9Wr5qM2kr9F91Iz8Gx15dx5YycdzyjompsTq6YvvhnwN+59PcM9WFRqNe5dejil7ZcpLhnrFG7Dp6YiSJERVNMBgUKEXe6vIVxTBi6TrAADqrssCKflpawQg9j8CX2aV5Qh8aIeFzbSmss8MWbRnxOAVa3E8OKa052rkC9UNA/hkFoW6V3QSkwd/kNiGLUJ0kimFfQxJvCLTczHAAAXPYJ8lYCB7wzCTBIlFy96BYajw2oWuj0jn+t6r1Pxeq7S6JVKXwlolDB1EgmrZJkN0An6pO00WYKcU+TXj1o/DeFYQDgR5MI2FQs1/Xe/TeQvHT9YOtqvoZFclCrlQVO5FtbhmcW62AVwI8slYkIG2kmxB5P4jXUnuy16SNRok7EsFO8PqjTFJnIwlbqA96Hkex8h7xiu/celQj4pgeUH"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -560,10 +560,10 @@ window.CC_ANSWERS = {
    "090d26d7a4113d3927fe6bafc8225805a03f28afb86ff2862aa202975f407046": "Look again at clue M1. It rules that answer out."
   },
   "reward": {
-   "salt": "b61djQopJ69FJOUZ5Kf2pQ==",
-   "iv": "/hUaCJWNOCy9/5xW",
+   "salt": "fdJSbn6QtB2+MUBrwA25qQ==",
+   "iv": "B432R0TeHW+Yh3pf",
    "iter": 200000,
-   "ct": "LYE5oqvymCfWFKJ2elHYGEnAYPw8zh94NbBDJswIXbyxiHhRdkgnjRADqUA+iAsueuexxertu/TABYb7DcR6AMdRgQq8Y91pqmYZTHQ8Wb8Kw2RjcL2uQyXCxOhIWaBIH7nNcy8ABKMecKz9j3f1l+aiFG99/Nz2oVW+vKEMiLiZ7q2bvJzhEhxbBsVRD38jeJHMNuCayWpJ5pJfpX1QpCO+zBD5fHqtkso7H3CAd4ph7qd4AUMkj5dRO12e/HBdn/FQey20b9A5DpcqMreTeon8MbHDCB5ekw9i6fM6+RtPWXZs7Y5X7a9XAKA33RTVj7TdaMI9MPV17SN5tYPFFsGevpNqSBStN0YQwwj8FEdr8xmTVox2ZbyNBUVa5hGxolHw6zGA10RguQuAjuUXSWgGIFTWTlVmt+m+777u/rYdg3Bp3MCOkCnZZFSoUHgCT1RdcufI6VGFAKlhRJ6h0ej1S8jfDkNiPOpGTsFLahE6hCWTOy68un4vjmJ4zmtnyNhDgw4ekLnI4lgFWSyZRVsQU3goAV1qGA0k4EyHIcFUGSnm6ujzXt2DsqAgmwfWy+xacnQu+MJkDZVw1WWKDPgY4rRGSEO7tD7q/Gi1AADdaNW6sQ8pjqJJ3qB9g0E9Rc/tIRhFBXhUCg3au63DwWD7OUam0A4r50PSNMgvdY7pOC48Ufz7iHrs36WBbLwWHVQ1JaWO+2uxT0l9GrQjHO/SDHXQvBpfNdRbvddEME2/N1O19MF9Vn1dxNZDLqmOZ0SRbLl9y7A+c6zsDrGaJtIk0tGKgR1zu1F+KT5N3EajwkJt2NelDo0dER5XlAcB2vRYct8quDcfvK21x899dhNWT3qSwODr5HyKc+DX3sfGSRqQGEMLtXeJxQ=="
+   "ct": "qExXLEC00oqX50q8qXxD9LI0gak1SshrLcM4CWYtRao0KUleJTLqtxH1YAKa/BvE99balsYz2WNawmuM9pGGDXsKBgCnGsDQBhGKDt87HLh1VzGxx1wHO+D71HCoH6K/6ThdtEFs2ZgVJqh6UG7ImyFBj2jFbciqkvZyn5V+fV+6oQ57o1EFkQD1sECanMmz5lYm+3FGWZg1s6pdeYX6ZjiRpumtwfWNIlgOC1Azbs/v04guexs2nJdbXFA+QLuudelqDQnjiQQgF3hYT9D56h9jn6gAhq4+PhPiNwAT6arm2f3U+lJtIpibos6yLv00Dr3bem9/eyiTiqwOP8mnW3OEdrQay4dEJmhmf7BT7BQ0Dea0GNBg82uZwymMd7furZ5Cl8ZLtwSIzuLitguTFMmbzz5LYclMP9HiODtdRc8k6P8tYq7TA1uAvQOYz9/YpLXsGPjfy70Kvmq6IY844dh68WJoL/1Ia65YmUN10dVQuDiBvpb1u+/yILsoRtwCBBs8bnJUB04su33iczwWAd4aPwUAKJIymKH3EY2eQUr2Joo/wEXURuU8x7u5A2ZBrTY53dcXafCee0F3AjEqWVs+AtR4Xin40GKS2ClLNUABQse7KBMgLkYy3SSiapxk1w8/8tnGSCixDY7CB208+DUhlEKba1adMuZbPmf6uPeGmnSMxed2zYRDrn7rgrIVONCprZL7b2eL8y54mL9j275hwp4NJKS2qZeN2vKXRHHMgH+UYbuB35yMk7ENUoLlw5xuB8HtHCjthYx+5gew/cQI62bnyKRxcmMUfVsHApR4TigcoM5hNpJHcuq7fspW048WhR4Ixbuq2kjZPqoOq+ehN6kBxarOdFpLrppFBX9rKXIbdNZTBPaZiQ=="
   },
   "word": "bf14b3d5e2c99a68a75335751b570b9d824b14387db99b9e0b889b580fb947cc",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -594,10 +594,10 @@ window.CC_ANSWERS = {
    "f80bc67ff20689082848e704d6046869a202e45a4578eb8a319d698e39ca5469": "Look again at clue R1. It rules that answer out."
   },
   "reward": {
-   "salt": "7Y+jiIS40hngpUmAwUN0Dg==",
-   "iv": "1SnZm4f69hEZUeB5",
+   "salt": "eBhAaj91Mf2wd2G/lYQZZw==",
+   "iv": "xcW6IbVPpnWqBCkl",
    "iter": 200000,
-   "ct": "E7gL1dguqafrLZrNSVGaXPcxECE74zeqc2mYmHRljYr2SY4UmgGtXdTP9nFhLN+ID3TNaNSFS5nBVlgkDfbzJPZSi0EDuNR1YPt1aPjsh2uOoi777xsNvVG962RrQoP1e55yNHuRtB79sXvtrSdRi2hgB/eO+x0bpTO8ufvz0U0V+GXG8ef5MUExy4dUb9VNClgNyxno9TdIB3XEgf1PS2FA6OVq2B74UsttvOxSFuBpQlkZ5Ldu/VLH0WXsGwwH101Fi/Yr3/k5HLmIvRFv56CAqc9ssXeaoGoe0ypAWXDxKlv7hZcjo72Syi/d0MNQQ9+7gZjiKwttZj/npmRWCiQ7UYaXNPs5CkNikmaqsMjEi3bzSYgqxDNlvlY4V1Pb8brk0TUCCNo9TjAcZRAs+OgPK2mf5oEtfjQ9tsZuf3u5hhOQOHt8Aixz68FLhB0Qty0sfg/3UGp/5935MZoYNEsGNxYW9ctDNJzGmgaszqECsj1rGXaE5PkHMLhxPDry2uw6emnHUkoYLQE3ptsHeHydqg5RIAdYCmGRt6W72ENJSY3elNzfUy9r1yoGF9SA3BSIHo5JUs85h2LAuFfMvM+wnQTCCQ0Bn6T+OOGjgs1dIHHqMD2iFITQvuTeteC0wGyszJC/6W+9OltKDqLK8VR68HNttflJGYX+cii64vGf00byjGzk+b9XdRDbgIpCpJjr31xyR/MKqX1Gv7AIPtWsreETnd8D8CeqjwfnE2TdGufqI2hyUgHu2mvE1JOH58brrHP9P23lmXnQO4+Nx1HoUOCWSzDfQTw="
+   "ct": "W0gpJg19OOpyEeq63t5Z0CCEtIBGUJ7Q+k2Pr6ZJE1xEKUt674hOTF7bQX5/4ju49JY1kczJayIK0dk2AqYR76S0nIzelFS7dE95k1M+jNlYZs3VOXmY9vh/H9ii1w+NAo6d+DEzEN3a1pKwyL8k3d+KA6MeI2oLP0z0T/AKmZHfrIiyoEnmZeUdeUk4gZhTGMmOxGNiQoqgSY0grCYTVeP+eNXIf4YVy1Kd3tHfntGnCCIetym/sYyVoj0+G4mTootgyJ8YORC3xctGoL/nomOiZaGhmwB2EDjP1fTNc4SzmpWTDeljQF1VGz7nWznkNefdmZqiRskCh1FcG3IhpaW/rnZcRVMSbI18ubEf8uxl86aZrTp3/3PER4HW5bUU13ZpPZYfBGKFmLUCofbMgSxhFGcCYTR1+LWvB5tXkhDgHareb103C3ZZn453nmrTwF4NZeeQe1TtyuRbj5F6e2DkN569j6sQzCsvVkf2LcGsHAb8BqVvi/sC3xm/4B2gKXpHP9nZVyNuoN3s7kFZyg6PEtsV87SbP2trcX8KXtE8nA/mSnVYOF531aAlXf90UbUdo/g6nkO2g28/PXqu1ErNVlMBa2FsIBnZjvzE9FLAp9wxCL7hXJKRPTCxyYEJhAlOZLcjCx59JApBFa7aEotqUZDBEaGjxwM9UkibQAJi8/zPt32OX1BpGgrl+SUlc8awE7f1WVlrCuQmRqBmuMtFmLu4/bl7Npw0iMUG652ZnNJ08kyEtLOLDEjhNBDaTyzq1oidNi6kS2PSBZ9ulxHT2lzCTKpI5bw="
   },
   "word": "ab58f685c6002f757cf27db2d2b8b4aa5a0a35ef56bd5882917f6c6bcb5d4f22",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -613,10 +613,10 @@ window.CC_ANSWERS = {
    "9ccd3a14e722ab311fdc4c8553bde83a02850e819a596b592d635d3b21e556e0": "Look again at clue S2. It rules that answer out."
   },
   "reward": {
-   "salt": "nS8403UEqRYrBk9IHPjPjw==",
-   "iv": "C1bV7NQfs3lIxFMO",
+   "salt": "WnUrHSQqUcu6WhBs/IeOyw==",
+   "iv": "vu0kI/629klpznCM",
    "iter": 200000,
-   "ct": "gzJVFPv/zHKKCtK0sa8gBCIw/jnDTS54w1o30VOwaPVJV1nUX4teWe1Kkc5oZ7uOncwXshCNpGmYmG8HUWComzsVFs/pSoPCOV6b+F/VuRz3tvbNhnvYQCL96pKIOwgWQENDLPS4HlxwbbO/CYqmZpuhXkMSfzB6OB+HdRA1VGlWDb2Iognmd/fQ44iJWald/K2By+M+6TONeZLQA8v0wLJkVKWgZWuIgZo5Xotju/usR/NXbZY3tNTh7p9N+Hl+rUh2Fmp6gQ9HPLJ3cwoM/Hm9+QmkUkdNdCOlKh4j0okj6opdsvmarnHxR8GAb6CFWWsTl0wWJl7DBtXTqEbGtdyBFH65po4MUAW5t+O0dX3jGQAceqmMlTWefxu0NAz/fX6Ebp0C8bulv6oQaBJCIcPRsA2UIcPl5ItNRBwQCwT2eocoD1iuF2MUuuA/UO2zC9oNRxU8EDI95Yqo9vI7sZgXw5Q+84wYU+tqP9X1A5L0IxAbiJFenz2GCJGLJX23wJCi1AFsG8FqyAsMPa6MUp8kRvlDAfz4Fp3m2zM2OxJf7ravGAza6r2I753ffzqQm4oZ14pnIbh3/MWH0PUvWM5o86n/8lEtLavotgsPWtHAgF2a4mw0SflUXe42l/yQqUHVN1j5ozw8lDT9FbQCWgcc8u82QegoZhbr3Tyl+66Z/hFy+zlOKgx8b/rYg6jGGyLIir4QjdSpplbmvhpismoMv6TrM0FWxG4Kz9sGXU5rjeui8qA="
+   "ct": "ix2o5gDJQ+BcdN0jLipJKLt+s2WPn/UCsC6jlHof7IpznqmFMkfmzsb+wA2fhFK3dn2NEU74NPGMa27/p/bkk7iIEap8fpsMOWSFu2HIWyuB36KTCOhL6QeTb8xBYE1uFq+2aOEpu3irJ6onBjZ4E0BlfTJKhiR0NFuJsw40RRfiCMJ7DDoYXYPnwCEi9VyY25oe9zbSNjpz2NlClZhtC6Pxd1cADk+MqGYOFHYFuKlDSQrX9h9XgOWrJwzZewdXDp27riWAALVsJlX0JJ2NW8asnB0Cix4zlaO8TS8fjjsNsd5qQzAvYXVSOrYcjFU3sydpvPPlmOKuowVGOFxaWLUPnwsBHeVLOSVwc92dvzzfHU7tGgpKw7+JNqwUmgs8bE1DezmDMS/7pqaPirc01tbUflpQA5ZBl66IRdVJTOaVX5ZEpNbHjcZPnDh8OMCRfUkXFbR0LjQLtdzRpHT7dV+GgmXdyGlrUW0YmRBM9kwYKJStAeXQ5QrI2TNTLw/6vGAXGqnwwlcCz8pIJaZm4I47W3hHyjPjELVB35cpHD2S0A2GO5G6Dar5ij1gnVXyFjsqvBmx56n9DYB2sIol3KgdS1JZSEgjTZl7tvfKbfzralgiqts/PRNdtGQPx2ls49LUuw4L2dXTDZDFqZxnSILXiyr166k5q3gbNoPXBB4qbJrLu3M48hX00d73K7sDNiT6wTHw0ltrvfVo3y0jlqnD8slQ//Ru3195cuU/v8ZzrPVkTJI="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -632,10 +632,10 @@ window.CC_ANSWERS = {
    "ba65cf64b057f32702894a7ed81910e3737ebd4a147e313e794bb16cf7cd3d75": "Look again at clue G2 and clue R1. Together they rule that answer out."
   },
   "reward": {
-   "salt": "zsyl92im5wsTACi0BxCjXQ==",
-   "iv": "nQ056mfvizKbDM97",
+   "salt": "dFB1i8EJQIeJi9zJXgg4Bw==",
+   "iv": "X6Jyb/VnusGJoL78",
    "iter": 200000,
-   "ct": "Ryq4kdORfAh+1rsYjSXemT2xuB/bDIVUe7/fwKkg7nGsskEDfBNHF/NSxw99e51Fng3CeZHhD7VTZ2SOnFiM1otzSq2xtJ+kqhA2c2g6BQ63e3cCIrx8hds9xIdM+KtI8dacvZLQGJEcnvJIHQ4B5pWpmLvZRx91C4NZ7O2D0Dg3bNH0pVr8n72A2POt66alxbpg0iSo/YOT8qKIM7LPg8e7Kk7hvTSMIyPptIrmy8r5a/CJclmkbAQkMxoggmDL2+tZsLh1VysVLfbPqZe8nIWZ5ZKOQnp36Kn3dGQZmyZQRV1bg58zHLFoDn0DP7E+ktmAoZc7+tfBZb+4SkVhaK30wma4paIxg5ACBv8IBwEfq8IyGJrv9GPi9i6XHTzLohpBRC/JtQSVDXm11DAW1ALdkTuxOZwwg102exkw1pcJL8gWb46I3b3vyMwzRSKrBAXxx4CtVdTMmU6U7Isa9XVvVEdh0sbQDZUFPCslNmCYrv4lqQuj5P8ichLOlbCUPqOD9Ci+9N3Ajf0Rc0yj7TY4L+Rf7YD+J+D6aXQC9PSsyn9q8jxd/4h1Y5OcuVztwCmdW1NNXJ/fkGhe0vyA4VYLudlzJB/UhQhvYiISr52wn4xZryEaM+tUe4Aaoxa2pwIDwcfRf8aC4rocFinGnTJDLar/NLfflRYubi0NIXsahp/nvUBaAh8fE76ixEVm5Z/MNLQCi+tqF9NxRc5WIjULRE3HDFZennh69O7hsB7L1nxV2XyqoIGqTRvIuS8qcoB5xSs/gFtgTZ7GTYCrRgwIp5O+NbPECZ+9p4L8EziE0zHTfRLkXfkon64AsSj3qpG4jK2+s8WqbLE4rUWARqjIkUauCOKv+g5PZPY1y1/Y8omaFYVOBDVRzZiw7PZN++Gb37ZAVuWFOCphzgzTJdyLuj+jyglVBEG/RVdWyWmxUPjdkWr3DPkyQ29x5Ha7ogf2"
+   "ct": "L7PYuSumUfmtnOH0GIE9K2sgOyw0O9nIKoE7U1XO6DiWwlFTfr6pkJj1gvwrx/S/DQZ/WB88+d0qk7lrteyFuDJWwhKs9g/yAN5iXGm/Rz/oTBQWETF1LRz9kcLjapiWXH/tcS7XvhFj6JmKY+b8IOLonoDrzgDxxOTgSkZkFcGimJfoMUWSdk77dT9FDLOEEk5WknnRcONeRsKvpg/1+ozpAElgwYj1sQkK2QjAPNfvPdhvwOFauaFuyXcYDRkjJ+5ghe6Zdl8WuzgYTrW4Tp6TSwTAPttlJNnS9wr8Gfl0tuHpGopV48jemv4kPHmFFsQ6AJJXvyM6Pq7Wicn54VjdhkQs+nLB1yFwAx0GmISX1iNiGNcyJpzMOzGNHUd1SGUbl6JtupSYq2TfnVBceUrKKFP8QrkCuNn/6sXum2TDI4vuh7vSsdf/X8pJVdEPEokSHugSYhQYcjOOxh0TMcc4NsbObyw7z0gX6bXd4Vkcs6na+zPdpPV3JHNaAJjkU4XlfObdDq5IrAMzZSaI4PyOUlRZcPlup0pBh6BecG/veXaaDJqE2pIsl+QGDhew3w0Xywbo09a/ITaG9pGoto1EqiIf7zsRau8VDeWUqc9g7PqrfqjuxNlphUifliaoKK0T1DEPe9S1Unmc00PDDvedStaumFQrvMPjyPdGnHBeK29LnCrhEYMA450G2X0w/za8+3xJpXMTuGHgqOTyDJPrU09yGVBu+xqfklTV7/85TtVL3YMAjiZSoYOOTrV+taRCLnXf7AUqBgXAnoN82SYpVb9ZN4ce7XMUCocKLW6nU722XSJDJQHMv0rOBN3YF5DlurZ5YJs4J0J5mTU0hOmXu0cXPocJkQkJoyaVVSEvXG4x7p74WI5DmA3Rxi3kSNfjcf9sVUU8mNwF7LA8l0RSj+6EnTVYGfot5055Z4qYoZfeZCzcWSd7eBB+WMH5d4ZK"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -651,10 +651,10 @@ window.CC_ANSWERS = {
    "718848e4a042ac07fdc2dfead20f85c6148677b3926380b2d02cafcbbb22d22f": "Look again at clue M1. It rules that answer out."
   },
   "reward": {
-   "salt": "WN2v2p94rOnlRw6qXzg6TQ==",
-   "iv": "1QHj05yhmMFQhVwc",
+   "salt": "DZJMbBwfdamlbDH7xEy/QA==",
+   "iv": "9h4h04enZovz4jeQ",
    "iter": 200000,
-   "ct": "KSl8t/my21gzbgoa4EBAVm+IRenhANdEVggfkeST9jjjdeL6Pz1Ua4QvEos7gnlu3rRZaSWI/VLYJc59kNcxvI0vvNheepwZXd0DGS9GhgIvmlZqt05p6EclYN/dd73ykppLN0wLu7vPW6oyLsKqOwDy9MQmL+0aA1JtjHdRJ5bghRK++hRuzNZk0gCco8VVUe9fIEfuODBzi1/Ai70VJ65uPFOmHPV03M3IYs2z/IKFq6YEaxXgsnjWlk8U8ACdCNm+a3OxXeJhq/gqk2aVrJRnTxvmYFX2HZfvZduHPWVgBlKQhfZvZGI8Nl9ootMRoA1mrhH4j03dXL1oXKhpNiqp2Ov990z01TGc/gXNIJrt8A6exsd669NzwA+Z9WlssMD2RpUXHF76cO4bfp2hum7a5DG30Q4FrKuSbPLxaSUkbAqUKgpW2kwMT1LNcDsZLQnTK5hWweQpuUinIEob04ZVWvmAAw70rBdVIJyzl1Wcp+ck8HjsmlzIeOrUsLEKv46wrPKR1M1U0QwVGSqoorGGVOZyZLYZuHDt0HTCvbcZ/Acl6jY4xKCh1skOVL0EH5raASIecLYihcDd86F95XyXEBRV3brGCEs9Lf2whvWIPfD9Mf8sWeKKTLOPDRjo1gz1bMMd288ivbWhjsPPNM9FusM8hHVpgvFXr/Z4yga0Cf7MxemSYxLV45InYaMFZr8F8bLJ7ffP15Zm2F5ECwGw2X1KDcn/pHAGQnRXw7z1Xa7YQBq9VqY2lDrAnSdYTyKOcAkjLOJOgo/A+NY7uSLhIrX9DNhYv4rtlxgyy5BlllhhKc7l9FSLKBgJJKgikCYFl3tkJLA="
+   "ct": "V+LHZ7D2RorikpulwJ2dAinbc7b6GPbhNhQjaVUSha7NO/aqBvJ0wphFdlYLV5mlm8tIfsqKmvGKc/gdJEvE14OFUr4KfAtTB7vm+Ox2Isj9df+rMkW9oi7yNiAOjO2+k7Crc22RTDTHuzCdyMCd19/syEqnF6FiDk5UVUD4FlXDp+9aTfZnD66K305ZaXR8LssAtQkvM+ycEZF4gb9tOL3RcXevRF0mH6r2pAux5V+LnWKJei0fE/LOLvmCAOq7XqktWUhbBBJ3lEK6WELokfbf32+Scri4/fNB1IKK7ukQPkneNH1vRM4QPovJf7tQJgZiZD9XX76dv0QxkZK1qiMBKkzZg4HSj0Q3RKKAsFvsuM1WuKo75yKSdcWrKOQauAH4Z/diNL72SCQyDnQLZm+IILVUWQvKrmBrEOFVChxh2C85ZQzs/89d6k0suLUMpZ+t5utVHe/seP0eqJsNs8ULiSdsm+jfIgcdILY85LqP4hjKNdEHpq9Yadj9IAWxzBAIfDyo8X2WdWgKMmr3YQysnaSLr0ll0DYwXT7b6s7G8JiNJIYmIiZsgNu3w1s9f0K7d3+jEFv0dhUnHGOtEHnhMAwnCjHaeGslU/j47r9h2SovlI/+uYpJelU4ypfvz2XrKGH6D9pfrkHrpY0qKyw3bmEKpKLIk804ReQ3ZQ/v8tsKYA/mQTnAqWwYioX8cyMlmvXO3wLINgc5LrDrJdT3QemLNJPcDHqpaJhDKLT7k9tbFJXGikTwZlydYkaX6y2PVJFOHs5FFbhhVnbsLt2lZYJbJewanFrbw8XXpbe/Be6njAnbkVI0Obbn03RNwzBIyKZZxsI="
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -753,10 +753,10 @@ window.CC_ANSWERS = {
    "3307ef1b2f8ed3954e0717b80f7245830b427330ef70d0ed1201faee1431436d": "Look again at clue G1. It rules that answer out."
   },
   "reward": {
-   "salt": "rcf1Sk1TxLBRjoq2tvSq+Q==",
-   "iv": "sQ18EoIJsaLx8AMk",
+   "salt": "meVzsaIxdJGnzi2ZbEofvQ==",
+   "iv": "K1tAfMpwtiaaFnvI",
    "iter": 200000,
-   "ct": "lQk0ounCQYK89uea+UsoGwvboBfSfev7KxGZLyIcberb7Vh8zScC+f534BL0mh2qCHI19XfyJ+c9+mSpDTHa9GBkHv9c68Eh1gWM+EEWt/kzhSAJEKMxKHQDdU//Ax4n711d3iafdLkLQmh8ocy1thbga8Oy8xEIovTa6bK9Cljt8A6ZO/NdGuZNA/vso96WSInv1TrwCxtrReqf2IRvwLrW098T9g1hWtb7Ytld+qM2u9NW91Uxlbc15SO/K5yOrpleM8fpFwpONDcK01367v5VbOW8wvtq84KFEQnB+WX4Uvj1IZ3rTXnzxILDG7jpGNFfBwV/xvt1/I7ocAJRNE7NuXcDiFbS8WXMh6ClzyTGzYoAXYmQjqYlzXbqu5fDk39fRNPefB1IB+ZlIxzWSGI+CAoH/OIkHF3tiSZlddbadljt/g68OmsfP+In4uAe9pK8L5NtEM3+W5QO/om9M8o5kKNvOvazTwbO0zFXyPiJNTpCnTe3KKkJFBEM0MTp0MJF9zJCaL9/6hJfMARy4SEgsCNpWhFyc683hZfil9Z223w0seNcIs2JqMZbBwZp+MlaMuCb/Rczt/o8jBtMAj8jwPHYJ/2p+wyOb56aBh2DtH9NaiReEXOcyWgRgCnyaW5ro/Y4/LAlHoSIJ3X3gNARvFLsdXfSd6zzRD5d9qCxOTm4j17+ck8TK7ngJ+6DhJyuSlNpZRLsULH/ImAZwgEexInVZ22bEm4vBO/0894yNEq0DskvFlGcIlaLLUlTnL8GO0SvwTF7KzHS//DdVZVYIzXf2BpNGeUeYJ13MreAtG9PAmCljTXrNT3U2Rp+5npr3QcVrBbyXZLyl7PmmIv1GAsQE3Rz8u39iV8dgJhltOCMiN6RwzK0ciM8Tvvq4KMfeYINYE+lx4cD3O1qOwwwEOzOmCCESD5+JgIia49yvPup2mFFDTJxwZaQhz8J"
+   "ct": "tqAupV9gOtPu+hqGkr1SNhBjQAEvGPooG54DumB/Z1v1EYN6k0N3sr9qvbtmtcpB+j8V5gl+LCfilPAadi/EGNpZ1VTahFZ7bRqOdAZtolXqyCHmMi6dSVX9aLGOvOrf6KZYobrV1QkEXJlnThpEPeDGYB199sd87+GFtTB0CFu8xGQymDUS66kVldHY9+wT4Rgu5xqizcfvGrJp3p1vjPyJ1sDq34NtiQazcscBeM9ZCvnpbmChpe2TOfy8CSbpix9L1mll9cHzoYrdVKRM7wZEJ4S/bdV75gPto5LZ+JjWqZYyUlzp6EPeZs2c7jvKQ+wXAC9NZHqzc6TYS1+4ojualGuuBPSax64KRQxBKzBQdJHFSX3YvkD3g5giu2euyQnre3rIc7msfgagcXwWQPOGm+v5dTN7CjHplkPWOO7M63hiSwDAfu070lIEXB4AVZwCIrVtaIoMTJBZRMPq9Q05OQEI7242m4jAyl18Cqr3/tP+qxzzbAQfGpn7Utr5WH28DYB6XRqkczHthgck4KyqGr59xCGhu+SbpkElB/hWJmY3LzK8SUsK8xOefAlgww+fvaEuTbxye3E9RXc7/25RdC6X42AYKk9TqjmYflrR4i8acRjcRYsLwh+PKah7X14xp7V9D5Mr4kz1vRgrmahVC3Ok/xCkifvsmlfpaOi+tDfZvJrCR/ATMQumom0/3WhCEnIQkSUcOoCSkofiK0nhnqVmfzSgKp/nYgwvnG6nMsLvCDyrLKmlbl0COl5qnpbkt+DV48PvIc3sVnjsw2s5iAWn69ry52RlJTB0kOyubAZ2A2I24wFJHb1lkfkxMKD1yHgAEVcNZhpfatr9tW6vWgELH9Yn2frItog7sJHh8lmGgMt2oDC+lowVBcdAGALNY7dNilRFAAjkPVnlPxJFJTswNY/7xDK5QD3ov60IXt/Z4bA+bSW+EgOETw1P"
   },
   "word": "bfed5385853d13d8accfd055a809c2613c599c66ac51c7369234b8f363385172",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
@@ -772,10 +772,10 @@ window.CC_ANSWERS = {
    "fe49770647aee27a7f9b93e75057993226ca88625ba4eeb2d80f2b6969589c21": "Look again at clue E3. It rules that answer out."
   },
   "reward": {
-   "salt": "J8/jeoIi6/0t+dT09YEKNA==",
-   "iv": "6sRgUrhyl7DeN/sG",
+   "salt": "SEii8znbdiAw45e9JhkQLQ==",
+   "iv": "9KWCsyHh9NLStAzt",
    "iter": 200000,
-   "ct": "r7p265sA9Xjs2UjGbJE1OXD83t++DJT3sqyW8QA1lTqQgf/NI+O4j2EBo07gjrZ+XNpt9PIQkrttCFUQ9duEmIP0uC/Dh3R0zYjOo+3RXER8cahC2641r0kBjxCYN8wXtIAmOba43P9QWfkyuTqdE8eioik1OZoLHPrq2vekLB3v60/66xkLkqTtVBPVspF/orStOHvTSjFaS0Eyi9fA6M789x39z6JhBOnVnH1jZWI9PQLhEAWBk6eRHLQ00XMWPzGiv5/19hH4xfCSprNvn8IInbw2iSLJ2BV/uHtox09LuFBEqsEEYGVIgiKLPtYm621bzKNvrhCyElcESgkxpYzv7aad9FEFyElQdjr89vfmgG6Z4TmoGR+1wXm5XiBArxqJiF7jHDymrcMOIUDARUlW5NBkypKav6Q06zYEF1QneeIa8xUR7bSLz1lXc8k0fhojFOeuHTILdS0Kak+pfkk7y1AaiQ2obd4oadJ1NRQuGDVjCJHumHSO6f6VbFCsfVkqYg3jZ+kfWz4WCLnbAo8Uoj8GPDEYbNyIQBwHUks9jb9qG+n1YfQt08j3s9Ukyh8rkhXMaiipybPhXVb8KeldlRiXOCyojMDWCRIJCQl4HIYmr2C4+g/94D2dGyriMsnlvuFXg2aTSYzv4iA1ZjmXYy6HlJ6avKJipA0ik5INSvSFjMNkOzgyquGzaTjakKazwChYijJuqqn0yyNlpv2vTICSSmYOVByZbZ+Uj4B+s4i8qTPvV2tb3lviujc4hrydikDyI5cBNzXiEykSo5K0eb+DhhJ9GT1zX3bZTnYEAtExHuihjl2Kd5eAtWqxM1JM1rbNVMlzJoij/cwLg/IOs1zDEPOMVuDT2n6tjYI/N08Y9gg9m3oGF+rHQdmu0snpu1kaevbCaqbMxY2HdyAYW0A+pvgT+gjgWW0EwzpwByFxXZt08J9RfQvwmug5tUr4tSoV6IsrWZngaNJSUXsqV0yCiUC5kTRVZagtZk6NSsKsHHXCaQqxGZTKEpBAa2pb3JLrYc6etPLIAqTZaWuPz1C5jXjI3CDXk7o+Kdf9n04tIyVeMDNzJURt5WDrTqdm9ieZvhbYYxdvxmrUV/pH+9sfOnX781oDlu3fwOqgUXi0QO3O5msHNYsYAllzbmE8CZGVhF8fIfUUc4EtpCi3A4cFbVzE0GEHtaa2S5o3h+1Seaz5D2Hvdgb3Bs0GxNLnabUATKdKUlW+lEsdB4dD96nEdnQraIak0YtCah0raNG7dxcZAcB2IemzN8fKuN3rAtrc09UgbrJUhNoeaM0wpJJ0Ue/XzH45BOF7zAVNMbpMR2wIMXbOnEcBepciyy3ZwaaElqv/4f11YQkipzZVMvZQ7PbO29iM+optGkKQjMylS1VnXqn7zon7a5hJRLmf1618YUp1LHOPKTayOr0ykquboJhpAEi7n6nULVqMoL2LlgcDQ/Cg16MXHUWK+Qmkw0ZJ2x1AyI1VuRgjLdfNu46lYkMuStdmlsXi3JyZUQUzZ1vJstqi4MINxfkZKEepblisz0lh97XIwTthVILVRU1RHtkPQyX1PWLIsQ6S"
+   "ct": "xqhDhcmsXCbEvS26Jwr8TkHCNIM6hJM3G8Vmj56njyF1tOdrFIsbI8w87ogCaQ9UYV0V7snWJyMHJ4xHEN44Ipkc2Csgt5jlb0YReS2tr3W7EEuLIXW17fmIBhWMMwDRXpsCG7vc3TW9jvPx8LrlDmGBWLm3FWo4tWimMzVXel5T29iBJ5lUhOiaRHNLXYbJaj7yt1yVJcwSB/G62M/9L49Qwzn7zmHgs7UR2/3KTvmnMwvMvokdnybjb/WY8Ik4h2SGfZ6WKmyATEZZ8PNqb1CIYpKxXw1WEqqzpK57OCYRDlyaEolEfxLs5dqQ8iRcPohvOgUH6xeGc/Eds3UGoTj95t1m9cCxyLmbIeQJTIEFeWqbtXF2shswmIA1y2Ndt3h29cVO1eb6AlLOVeUTDhWsx/k7PtOo48Z+YTpniYwjsXqunLFHB4PEWon2hRLiBgBro5BB/0WrgEnlroIweBjuzlhIHiEsgBV/54twI0Z+pmwqr7w5fw/TYvO+bEuMe3XJyN1IR+9xvdZxhE1G6opysclmtT9hfGzSS6t80hfOjhbqaC90NNuLzLwKcOubVQRbxUd59LKXPk32aKuHjCbapfO4Ic//6tLuXiRPf8Nz1F2NMOe9w6IEW/tQb+68lUiI1AKAnE8RtgGtIlNYKZapVaWbiwLOax4fL/a2hsg95hKSMS/c9CgBHmT8wn8/SBfMCyhUZXDzmFBiMAYQuXinRe+4CLEP1w64hdsOsBpiNrSXXAAYTz5J1oOJDHDLTmLQalkMvdn+yG1Ohnj0oYZBLz4pgPahOAVDukgN2UfBJU17idWP7s26dfQo0iZxrNy1U0N3qIFNGb7MrbKKvDDjIGv6ODOxFEvwsC0sjExvWT4+ydLpg+nyr1kyQOKO4nOnjU62WbZ/7iIysJPVHuVIjpMZJEZ6ebZ2L+saf9fm+cipZC5BS/ipSVnZt0UPpmgJt2ZHfmpanCqxzCGhE5GLuyNOVaZct2eXDTSCUevnwoasLwFehn95RbgnhyJD9YToxdoeiBlikYX99fcjuxBwA734gnuj721JimrY5TY/bTOH6G2EKBoKoIH8RiYGLLeA8ksjzD9K1FjacNNfvykAHyWjeMFwW8zJA8/MDc5QXVzUicDXS+/tjR2XCPAQWAlDTSan1erJJlaJRc4yak0sfRkDK0O522jxedObLy2ytH15WZzgfIdbcLFEvyE3gN6/bVhZYA6/Kj6gsPrk5githu4X6Q1QfSrL7xAu0IlkodwEBfWLIDdYHh4KHdZ5Ru97CF+yqbJ4qdy0DnQDD8u0kDBxSTMcQ/z29mkELIvFQmfJ5yOZSJFeiU6tgcmlyjjsQFcMEnODZhZCvTW8pdpi76q/vmETuLv/dAfwyk+8Tnhoio/AF8f6MkFMK1WIi4G7TdZkJgzpvXLqpIbAwEsRp6JwqSoUj/Xev/Qn2ZHYuUjiDr0o8Fjlm95CdEOaomnaYfW8YbZ0e4KWeFd+XRNMaog/sUqN5PxbLHzHOXtoCBWvhM4jmQkaUrWTLoN8MyQbispXY6G3Q+lUvCF3Sv57b3qhYAH8gHsp/CRP5zC1"
   },
   "word": "",
   "unknown": "That code doesn't match anything in this case. Check the CRACK THE CASE box at the end of the case to see how to build your answer code.",
