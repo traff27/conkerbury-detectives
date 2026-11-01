@@ -99,6 +99,27 @@ input[disabled] { background: #eee; }
 @keyframes fall { to { transform: translateY(110vh) rotate(540deg); } }
 @media (prefers-reduced-motion: reduce) { .confetti { display: none; } .result.show { animation: none; } html { scroll-behavior: auto; } }
 
+/* book: header bar, hero, buttons */
+.bookbar { background: var(--yellow); border-bottom: 4px solid var(--ink); font-size: 15px; }
+.bookbar .wrap { max-width: 1120px; margin: 0 auto; padding: 8px 18px; display: flex; gap: 10px 18px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.bookbar .bb-btns { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.bookbar a { color: var(--ink); }
+.btn.buy { background: var(--orange); color: var(--ink); }
+.btn.buy.soon::after { content: " \2192"; }
+.btn.sm { font-size: 16px; padding: 7px 12px 4px; border-width: 3px; box-shadow: 3px 3px 0 var(--ink); border-radius: 12px; }
+.btn.big { font-size: 25px; padding: 14px 24px 10px; }
+.bookhero { display: grid; grid-template-columns: 340px 1fr; gap: 34px; align-items: center; margin: 6px 0 20px; }
+.bookhero .cover img { display: block; width: 100%; height: auto; border: 4px solid var(--ink); border-radius: 8px; box-shadow: 8px 8px 0 var(--ink); transform: rotate(-1.5deg); }
+.bookhero h1 { font-size: clamp(34px, 4.6vw, 52px); }
+.bookhero h1 .t2 { display: block; color: var(--navy); font-size: .7em; margin-top: .15em; }
+.byline { font-family: "Special Elite"; font-size: 19px; letter-spacing: 1px; margin-top: -.2em; }
+.hero.club { margin-top: 40px; }
+ul.tight { padding-left: 1.1em; margin: 0 0 .8em; } ul.tight li { margin-bottom: .25em; }
+table.facts { border-collapse: collapse; width: 100%; } table.facts th, table.facts td { text-align: left; padding: 7px 10px; border-bottom: 2px dashed #c9b48f; vertical-align: top; }
+table.facts th { width: 30%; font-family: "Special Elite"; font-weight: normal; letter-spacing: 1px; }
+@media (max-width: 760px) { .bookhero { grid-template-columns: 1fr; } .bookhero .cover { max-width: 260px; margin: 0 auto; } .bookbar .wrap > span:first-child { display: none; } .bookbar .wrap { justify-content: center; } }
+@media print { .bookbar { display: none !important; } }
+
 footer.site { border-top: 4px solid var(--ink); background: #f1dfbf; font-size: 15px; }
 footer.site .wrap { max-width: 1120px; margin: 0 auto; padding: 20px 18px 30px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between; }
 footer.site a { color: var(--conker-dark); }

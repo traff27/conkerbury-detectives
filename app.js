@@ -93,7 +93,15 @@ async function openBonus(ev) {
     } catch (err) { show(r, "no", `<h3>Not quite!</h3><p>${esc(c.hints[code] || "Check every suspect against every clue. Shoes first, then the pencil, then who was busy somewhere else.")}</p>`); }
   });
 }
+// ---------------------------------------------------------------- "Get the book" buttons
+// The Amazon link lives in ONE place: window.BOOK_URL in data/book.js (empty = "Coming soon on Amazon").
+function bookLinks() {
+  const url = String(window.BOOK_URL || "").trim(); if (!/^https:\/\/[^\s"<>]+$/.test(url)) return;
+  document.querySelectorAll("[data-book-link]").forEach(a => { a.href = url; a.rel = "noopener"; a.classList.remove("soon"); a.textContent = "Get the book on Amazon"; });
+  document.querySelectorAll("[data-book-note]").forEach(n => { n.hidden = true; });
+}
 document.addEventListener("DOMContentLoaded", () => {
+  bookLinks();
   const f = document.getElementById("check-form"); if (f) f.addEventListener("submit", checkAnswer);
   const b = document.getElementById("bonus-form"); if (b) b.addEventListener("submit", openBonus);
   const n = document.getElementById("cert-name"); if (n) n.addEventListener("input", () => { document.getElementById("cert-who").textContent = n.value; });
