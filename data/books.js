@@ -235,5 +235,21 @@ window.CHECK_BOOKS = [
     "label": "Christmas Day: The Case of the Missing Star"
    }
   ]
+ },
+ {
+  "id": "fp",
+  "label": "Free printables",
+  "cover": "img/printables/Free_Taster_Case.jpg",
+  "help": "The free cases from the Printables page.",
+  "cases": [
+   {
+    "value": "f1",
+    "label": "The Flying Sausage Dog"
+   },
+   {
+    "value": "f2",
+    "label": "The Muddled Stockings"
+   }
+  ]
  }
 ];
