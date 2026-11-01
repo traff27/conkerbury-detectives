@@ -1,0 +1,9 @@
+Fonts are self-hosted (no Google Fonts CDN, so visitors' IP addresses are not sent to a third party).
+Subset to Latin characters and converted to WOFF with fontTools.
+
+Luckiest Guy   - Astigmatic. Apache License 2.0
+Special Elite  - Astigmatic. Apache License 2.0
+Patrick Hand   - Patrick Wagesreiter. SIL Open Font License 1.1
+Andika         - SIL International. SIL Open Font License 1.1
+Full licence texts: https://www.apache.org/licenses/LICENSE-2.0 and https://openfontlicense.org
+(Check each licence on fonts.google.com before going live; all allow free web embedding.)
