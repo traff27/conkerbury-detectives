@@ -149,3 +149,16 @@ footer.site a { color: var(--conker-dark); }
   .cert { break-inside: avoid; }
   @page { size: A4; margin: 12mm; }
 }
+
+/* ---- Book 2: A Conkerbury Christmas */
+.bookhero.xmasbox { background: #b3262d; color: #fff; border: 3.5px solid var(--ink); border-radius: var(--radius); box-shadow: 6px 6px 0 var(--ink);
+  padding: 24px; margin: 28px 0; background-image: radial-gradient(#ffffff55 2px, transparent 2.5px); background-size: 26px 26px; }
+.bookhero.xmasbox h2, .bookhero.xmasbox .lead, .bookhero.xmasbox a:not(.btn) { color: #fff; }
+.bookhero.xmasbox .stamp.red { color: #fff; }
+
+/* "Choose your book" picker on check.html */
+.bookpick { display: flex; align-items: center; gap: 12px; }
+.bookpick img { width: 56px; height: 72px; object-fit: cover; flex: 0 0 auto; border: 2px solid var(--ink); border-radius: 6px; background: #fff; }
+.bookpick select { flex: 1 1 auto; min-width: 0; font-size: 19px; }
+#check-form label[for="case"] { display: block; }
+@media (max-width: 420px) { .bookpick img { width: 44px; height: 57px; } }

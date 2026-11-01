@@ -1,25 +1,37 @@
 # The Conkerbury Detectives Club
 
-> The official companion website for the children's detective puzzle book "The Conkerbury Detectives: The Case of the Missing Conker Champion" by Inspector Cuthbert Conkerworth. 30 solvable mystery cases for detectives aged 8 to 12, set across one very British school year.
+> The official companion website for the Conkerbury Detectives children's detective puzzle books by Inspector Cuthbert Conkerworth: "The Conkerbury Detectives: The Case of the Missing Conker Champion" (book 1) and "The Conkerbury Detectives: A Conkerbury Christmas" (book 2, coming soon for Christmas 2026).
 
-## The book
+## Book 2 (new): A Conkerbury Christmas
+- Title: The Conkerbury Detectives: A Conkerbury Christmas
+- Series: The Conkerbury Detectives (book 2)
+- Author: Inspector Cuthbert Conkerworth (pen name)
+- Reading age: 8 to 12
+- Format: paperback (8.5 x 11 in, 120 pages, black and white, space to write in)
+- Language: English (British)
+- Where to buy: coming soon on Amazon (paperback), for Christmas 2026. Not on sale yet.
+- Book page: https://conkerburydetectives.co.uk/christmas.html
+- What it is: 24 Advent mysteries and a Christmas Day finale for detectives aged 8 to 12. One case for every day of Advent (1 to 24 December), getting harder from Rookie to Chief Inspector, then a Christmas Day finale (The Case of the Missing Star) solved with a Secret Paper Chain of letters collected from nine cases. Suspect cards, maps, timelines, logic grids, codes and fibbing witnesses, with hints for every case and answers printed upside down. Every case has exactly one correct answer, checked by a computer solver. Nothing scary: missing mittens, swapped puddings and a magpie with a taste for tinsel. Readers don't need book 1 first.
+
+## Book 1: The Case of the Missing Conker Champion
 - Title: The Conkerbury Detectives: The Case of the Missing Conker Champion
 - Series: The Conkerbury Detectives (book 1)
 - Author: Inspector Cuthbert Conkerworth (pen name)
 - Reading age: 8 to 12
-- Formats: paperback (8.5 x 11 in, 156 pages, black and white, space to write in) and Kindle
+- Format: paperback only (8.5 x 11 in, 156 pages, black and white, space to write in)
 - Language: English (British)
-- Where to buy: coming soon on Amazon (paperback and Kindle). Not on sale yet.
+- Buy it on Amazon (paperback, available now): https://www.amazon.co.uk/dp/B0HQ1LMJGX (UK), https://www.amazon.com/dp/B0HQ1LMJGX (US)
 - Book page: https://conkerburydetectives.co.uk/book.html
 
-## What it is
 A puzzle book of 30 short, illustrated, fair-play mystery cases set in Conkerbury, a made-up English village, across one school year (conker season, the bake sale, bonfire night, the panto, Pancake Day, the village show and the summer fete). Readers study clues, witness statements, maps, timelines, logic grids and codes, cross out suspects and build an answer code. Every case has exactly one correct answer, checked by a computer solver. Cases get harder from Rookie to Chief Inspector. A Secret Ledger collects letters from nine cases to unlock the final mystery. Hints are included for every case and answers are printed upside down. Nothing scary: missing conkers, swapped cakes and vanished trophies. The detectives are Priya, Ollie, Ffion, Alfie and Biscuit the sausage dog.
 
 ## The website
-- [Home](https://conkerburydetectives.co.uk/): the book and the club
-- [The Book](https://conkerburydetectives.co.uk/book.html): what's inside, age range, formats and where to buy
-- [Check Your Answer](https://conkerburydetectives.co.uk/check.html): type an answer code for any of the 30 cases; wrong answers get a hint, never a spoiler
-- [Bonus Case](https://conkerburydetectives.co.uk/bonus.html): a secret extra case unlocked with a key from Case 8 in the book
+- [Home](https://conkerburydetectives.co.uk/): the books and the club
+- [Book 1](https://conkerburydetectives.co.uk/book.html): The Case of the Missing Conker Champion: what's inside, age range, formats and where to buy
+- [Book 2](https://conkerburydetectives.co.uk/christmas.html): A Conkerbury Christmas: what's inside, age range, format and where to buy
+- [Check Your Answer](https://conkerburydetectives.co.uk/check.html): type an answer code for any of the 30 cases in book 1 or the 25 cases in book 2; wrong answers get a hint, never a spoiler
+- [Bonus Case](https://conkerburydetectives.co.uk/bonus.html): a secret extra case unlocked with a key from Case 8 in book 1
+- [Boxing Day Bonus Case](https://conkerburydetectives.co.uk/boxing-day.html): a secret extra case unlocked with a key from the Christmas Day finale in book 2
 - [Printables](https://conkerburydetectives.co.uk/printables.html): free detective case file and certificate
 - [For parents, carers and teachers](https://conkerburydetectives.co.uk/parents.html)
 - [Privacy](https://conkerburydetectives.co.uk/privacy.html): the site collects no personal information (no cookies, analytics, adverts or sign-ups); answers are checked in the browser
