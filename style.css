@@ -162,3 +162,16 @@ footer.site a { color: var(--conker-dark); }
 .bookpick select { flex: 1 1 auto; min-width: 0; font-size: 19px; }
 #check-form label[for="case"] { display: block; }
 @media (max-width: 420px) { .bookpick img { width: 44px; height: 57px; } }
+
+/* Free downloads grid (printables.html) */
+.downloads { margin: 18px 0 28px; }
+.dl-grid { list-style: none; padding: 0; margin: 14px 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 16px; }
+.dl-card { background: var(--paper); border: 3px solid var(--ink); border-radius: 10px; padding: 10px; display: flex; flex-direction: column; gap: 6px; }
+.dl-card a { color: var(--ink); text-decoration: none; display: flex; flex-direction: column; gap: 8px; }
+.dl-card a:hover .dl-title, .dl-card a:focus-visible .dl-title { text-decoration: underline; }
+.dl-card a:focus-visible { outline: 3px solid var(--orange); outline-offset: 3px; }
+.dl-card img { width: 100%; height: auto; border: 1.5px solid var(--ink); border-radius: 4px; background: #fff; }
+.dl-title { font-weight: 700; font-size: 1.05rem; }
+.dl-meta { font-size: .85rem; color: #555; }
+.dl-adult { border-left: 5px solid var(--yellow); padding-left: 10px; }
+@media print { .downloads { display: none !important; } }

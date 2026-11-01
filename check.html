@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Check Your Answer | The Conkerbury Detectives Club</title>
-<meta name="description" content="Check your answer code for any case in The Conkerbury Detectives puzzle books: 30 in book 1 and 25 in A Conkerbury Christmas. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.">
+<meta name="description" content="Check your answer code for any case in The Conkerbury Detectives puzzle books (30 in book 1 and 25 in A Conkerbury Christmas) or the free printable cases. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.">
 <meta name="referrer" content="no-referrer">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; form-action 'none'; base-uri 'none'">
@@ -13,7 +13,7 @@
 <meta property="og:site_name" content="The Conkerbury Detectives Club">
 <meta property="og:locale" content="en_GB">
 <meta property="og:title" content="Check Your Answer | The Conkerbury Detectives Club">
-<meta property="og:description" content="Check your answer code for any case in The Conkerbury Detectives puzzle books: 30 in book 1 and 25 in A Conkerbury Christmas. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.">
+<meta property="og:description" content="Check your answer code for any case in The Conkerbury Detectives puzzle books (30 in book 1 and 25 in A Conkerbury Christmas) or the free printable cases. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.">
 <meta property="og:url" content="https://conkerburydetectives.co.uk/check.html">
 <meta property="og:image" content="https://conkerburydetectives.co.uk/img/og-cover.jpg">
 <meta property="og:image:width" content="1200">
@@ -21,7 +21,7 @@
 <meta property="og:image:alt" content="Cover of The Conkerbury Detectives: The Case of the Missing Conker Champion by Inspector Cuthbert Conkerworth">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Check Your Answer | The Conkerbury Detectives Club">
-<meta name="twitter:description" content="Check your answer code for any case in The Conkerbury Detectives puzzle books: 30 in book 1 and 25 in A Conkerbury Christmas. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.">
+<meta name="twitter:description" content="Check your answer code for any case in The Conkerbury Detectives puzzle books (30 in book 1 and 25 in A Conkerbury Christmas) or the free printable cases. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.">
 <meta name="twitter:image" content="https://conkerburydetectives.co.uk/img/og-cover.jpg">
 <meta name="twitter:image:alt" content="Cover of The Conkerbury Detectives: The Case of the Missing Conker Champion by Inspector Cuthbert Conkerworth">
 <link rel="stylesheet" href="style.css">
@@ -54,7 +54,7 @@
    "@id": "https://conkerburydetectives.co.uk/check.html#page",
    "url": "https://conkerburydetectives.co.uk/check.html",
    "name": "Check Your Answer | The Conkerbury Detectives Club",
-   "description": "Check your answer code for any case in The Conkerbury Detectives puzzle books: 30 in book 1 and 25 in A Conkerbury Christmas. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.",
+   "description": "Check your answer code for any case in The Conkerbury Detectives puzzle books (30 in book 1 and 25 in A Conkerbury Christmas) or the free printable cases. Right or wrong, you get a hint, never a spoiler. Nothing you type is sent or saved.",
    "isPartOf": {
     "@id": "https://conkerburydetectives.co.uk/#website"
    },
@@ -64,7 +64,7 @@
 }
 </script>
 <script src="data/book.js"></script>
-<script src="data/books.js"></script><script src="data/answers.js"></script><script src="data/answers2.js"></script><script src="app.js" defer></script>
+<script src="data/books.js"></script><script src="data/answers.js"></script><script src="data/answers2.js"></script><script src="data/answers3.js"></script><script src="app.js" defer></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to the case</a>
@@ -81,7 +81,7 @@
  <div class="grid g2">
   <div><label for="book">Choose your book</label>
    <div class="bookpick"><img id="book-thumb" src="img/book-cover-400.jpg" width="56" height="72" alt="" aria-hidden="true">
-   <select id="book" aria-describedby="book-help"><option value="b1" selected>Book 1: The Case of the Missing Conker Champion</option><option value="b2">Book 2: A Conkerbury Christmas (coming soon)</option></select></div>
+   <select id="book" aria-describedby="book-help"><option value="b1" selected>Book 1: The Case of the Missing Conker Champion</option><option value="b2">Book 2: A Conkerbury Christmas (coming soon)</option><option value="fp">Free printables</option></select></div>
    <p id="book-help" class="small" style="margin-top:6px">Pick the book you're reading, then pick the case.</p>
    <label for="case" style="margin-top:14px">Which case?</label>
    <select id="case"><option value="1" selected>Case 1: The Great Sandwich Swap</option><option value="2">Case 2: The Harvest Festival Marrow</option><option value="3">Case 3: The Mystery of the Muddy Paws</option><option value="4">Case 4: The Odd Sock Bandit</option><option value="5">Case 5: The Recorder Rumpus</option><option value="6">Case 6: The Overdue Dinosaur Book</option><option value="7">Case 7: The Great Bake Sale Mix-Up</option><option value="8">Case 8: The Missing Conker Champion</option><option value="9">Case 9: The Bonfire Night Toffee Apples</option><option value="10">Case 10: The Advent Calendar Raid</option><option value="11">Case 11: The Panto Cow&#x27;s Missing Head</option><option value="12">Case 12: The Snowman Scarf Snatcher</option><option value="13">Case 13: The Book Week Costume Swap</option><option value="14">Case 14: The Hamster Houdini</option><option value="15">Case 15: The Spelling Bee Shuffle</option><option value="16">Case 16: The Science Fair Fizz</option><option value="17">Case 17: The School Trip Packed Lunches</option><option value="18">Case 18: The Allotment Giant Turnip</option><option value="19">Case 19: The Pancake Race Splat</option><option value="20">Case 20: The Easter Bonnet Parade</option><option value="21">Case 21: The Coded Note in the Cloakroom</option><option value="22">Case 22: The Two Truths Tea Party</option><option value="23">Case 23: The Tombola Trick</option><option value="24">Case 24: The Scout Camp Torch Signals</option><option value="25">Case 25: The Duck Race Disqualification</option><option value="26">Case 26: The Strawberry Jam Judge</option><option value="27">Case 27: The Lollipop Sign Disappearance</option><option value="28">Case 28: The Sports Day Trophy Switch</option><option value="29">Case 29: The Time Capsule Treasure Trail</option><option value="30">Case 30: The Secret of the Bell Tower</option></select>
