@@ -130,7 +130,7 @@ window.CHECK_BOOKS = [
  },
  {
   "id": "b2",
-  "label": "Book 2: A Conkerbury Christmas (coming soon)",
+  "label": "Book 2: A Conkerbury Christmas",
   "cover": "img/book2-cover-400.jpg",
   "help": "All 25 cases from book 2: pick the day (1 to 24 December), or Christmas Day for the finale.",
   "cases": [
