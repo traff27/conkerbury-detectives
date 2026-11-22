@@ -134,6 +134,16 @@ function book2Links() {   // book 2 (A Conkerbury Christmas): window.BOOK2_URL i
   document.querySelectorAll("[data-book2-link]").forEach(a => { a.href = url; a.rel = "noopener"; a.classList.remove("soon"); a.textContent = "Get the book on Amazon"; });
   document.querySelectorAll("[data-book2-note]").forEach(n => { n.hidden = true; });
 }
+function book3Links() {   // book 3 (The Case of the Missing Castle Key): window.BOOK3_URL in data/book.js
+  const url = String(window.BOOK3_URL || "").trim(); if (!/^https:\/\/[^\s"<>]+$/.test(url)) return;
+  document.querySelectorAll("[data-book3-link]").forEach(a => { a.href = url; a.rel = "noopener"; a.classList.remove("soon"); a.textContent = "Get the book on Amazon"; });
+  document.querySelectorAll("[data-book3-note]").forEach(n => { n.hidden = true; });
+}
+function book4Links() {   // book 4 (A Conkerbury Snow Day): window.BOOK4_URL in data/book.js
+  const url = String(window.BOOK4_URL || "").trim(); if (!/^https:\/\/[^\s"<>]+$/.test(url)) return;
+  document.querySelectorAll("[data-book4-link]").forEach(a => { a.href = url; a.rel = "noopener"; a.classList.remove("soon"); a.textContent = "Get the book on Amazon"; });
+  document.querySelectorAll("[data-book4-note]").forEach(n => { n.hidden = true; });
+}
 // ---------------------------------------------------------------- "Choose your book" picker (check.html)
 // Data-driven from window.CHECK_BOOKS in data/books.js: a new book only needs a new entry there.
 function fillCases(book, keep) {
@@ -161,7 +171,7 @@ function bookPicker() {
   });
 }
 document.addEventListener("DOMContentLoaded", () => {
-  bookLinks(); book2Links();
+  bookLinks(); book2Links(); book3Links(); book4Links();
   const f = document.getElementById("check-form"); if (f) f.addEventListener("submit", checkAnswer);
   bookPicker();
   const b = document.getElementById("bonus-form"); if (b) b.addEventListener("submit", openBonus);

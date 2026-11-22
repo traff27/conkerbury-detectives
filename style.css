@@ -176,7 +176,7 @@ footer.site a { color: var(--conker-dark); }
 .dl-adult { border-left: 5px solid var(--yellow); padding-left: 10px; }
 @media print { .downloads { display: none !important; } }
 
-/* ---- Coming soon: books 3 and 4 */
+/* ---- Books 3 and 4, out now */
 .soonbox .card.soon { display: grid; grid-template-columns: 150px 1fr; gap: 16px; align-items: start; }
 .soonbox .card.soon img { display: block; width: 100%; height: auto; border: 3px solid var(--ink); border-radius: 6px; box-shadow: 4px 4px 0 var(--ink); }
 .soonbox .card.soon h3 { margin-top: 10px; }
