@@ -237,6 +237,198 @@ window.CHECK_BOOKS = [
   ]
  },
  {
+  "id": "b3",
+  "label": "Book 3: The Case of the Missing Castle Key",
+  "cover": "img/book3-cover-400.jpg",
+  "help": "All 24 cases from book 3.",
+  "cases": [
+   {
+    "value": "k1",
+    "label": "Case 1: The Swapped Packed Lunches"
+   },
+   {
+    "value": "k2",
+    "label": "Case 2: The Missing Guidebook"
+   },
+   {
+    "value": "k3",
+    "label": "Case 3: Muddy Boots at the Moat"
+   },
+   {
+    "value": "k4",
+    "label": "Case 4: The Flag That Wouldn’t Fly"
+   },
+   {
+    "value": "k5",
+    "label": "Case 5: The Whispering Suit of Armour"
+   },
+   {
+    "value": "k6",
+    "label": "Case 6: The Ticket-Office Mix-Up"
+   },
+   {
+    "value": "k7",
+    "label": "Case 7: The Vanishing Picnic Blanket"
+   },
+   {
+    "value": "k8",
+    "label": "Case 8: The Arrow-Slit Message"
+   },
+   {
+    "value": "k9",
+    "label": "Case 9: The Keep Staircase Jam"
+   },
+   {
+    "value": "k10",
+    "label": "Case 10: The Peacock Feather Trail"
+   },
+   {
+    "value": "k11",
+    "label": "Case 11: The Gift-Shop Switch"
+   },
+   {
+    "value": "k12",
+    "label": "Case 12: The Banquet Table Plan"
+   },
+   {
+    "value": "k13",
+    "label": "Case 13: The Armoury Labels"
+   },
+   {
+    "value": "k14",
+    "label": "Case 14: The Falconer’s Gloves"
+   },
+   {
+    "value": "k15",
+    "label": "Case 15: The Portcullis Practice"
+   },
+   {
+    "value": "k16",
+    "label": "Case 16: The Sketching Competition"
+   },
+   {
+    "value": "k17",
+    "label": "Case 17: The Café Tray Trail"
+   },
+   {
+    "value": "k18",
+    "label": "Case 18: The Coded Trail of Arrowheads"
+   },
+   {
+    "value": "k19",
+    "label": "Case 19: The Two-Truths Tour Guides"
+   },
+   {
+    "value": "k20",
+    "label": "Case 20: The Moat Duck Count"
+   },
+   {
+    "value": "k21",
+    "label": "Case 21: The Dungeon Tap Code"
+   },
+   {
+    "value": "k22",
+    "label": "Case 22: The Photo on the Battlements"
+   },
+   {
+    "value": "k23",
+    "label": "Case 23: Where Did Sir Percy Go?"
+   },
+   {
+    "value": "k24",
+    "label": "Case 24: The Case of the Missing Castle Key"
+   }
+  ]
+ },
+ {
+  "id": "b4",
+  "label": "Book 4: A Conkerbury Snow Day",
+  "cover": "img/book4-cover-400.jpg",
+  "help": "All 20 cases from book 4.",
+  "cases": [
+   {
+    "value": "s1",
+    "label": "Case 1: The Indoor Wellies Mystery"
+   },
+   {
+    "value": "s2",
+    "label": "Case 2: The Vanishing Hot Chocolate Cups"
+   },
+   {
+    "value": "s3",
+    "label": "Case 3: Snowman Hat Swap"
+   },
+   {
+    "value": "s4",
+    "label": "Case 4: The Squeaky Boot Bandit"
+   },
+   {
+    "value": "s5",
+    "label": "Case 5: Who Borrowed the Toboggan?"
+   },
+   {
+    "value": "s6",
+    "label": "Case 6: The Flattened Snow Den"
+   },
+   {
+    "value": "s7",
+    "label": "Case 7: The Bird-Feeder Raid"
+   },
+   {
+    "value": "s8",
+    "label": "Case 8: The Grit Bin Mix-Up"
+   },
+   {
+    "value": "s9",
+    "label": "Case 9: The Lost Glove Trail"
+   },
+   {
+    "value": "s10",
+    "label": "Case 10: The Sledge Colour Conundrum"
+   },
+   {
+    "value": "s11",
+    "label": "Case 11: Cocoa Stall Duties"
+   },
+   {
+    "value": "s12",
+    "label": "Case 12: Snowball Target Scores"
+   },
+   {
+    "value": "s13",
+    "label": "Case 13: The Warm-Drinks Rota"
+   },
+   {
+    "value": "s14",
+    "label": "Case 14: Hat, Scarf, Mittens"
+   },
+   {
+    "value": "s15",
+    "label": "Case 15: Footprints in the Fresh Snow"
+   },
+   {
+    "value": "s16",
+    "label": "Case 16: The Fibbing Snowballer"
+   },
+   {
+    "value": "s17",
+    "label": "Case 17: The Icicle Number Code"
+   },
+   {
+    "value": "s18",
+    "label": "Case 18: Torch Flashes Across the Green"
+   },
+   {
+    "value": "s19",
+    "label": "Case 19: The PE Shed Grid Ref"
+   },
+   {
+    "value": "s20",
+    "label": "Case 20: The Case of the Missing Snow Shovel"
+   }
+  ]
+ },
+ {
   "id": "fp",
   "label": "Free printables",
   "cover": "img/printables/Free_Taster_Case.jpg",

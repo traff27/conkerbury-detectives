@@ -53,7 +53,7 @@ A puzzle book of 30 short, illustrated, fair-play mystery cases set in Conkerbur
 - [Home](https://conkerburydetectives.co.uk/): the books and the club
 - [Book 1](https://conkerburydetectives.co.uk/book.html): The Case of the Missing Conker Champion: what's inside, age range, formats and where to buy
 - [Book 2](https://conkerburydetectives.co.uk/christmas.html): A Conkerbury Christmas: what's inside, age range, format and where to buy
-- [Check Your Answer](https://conkerburydetectives.co.uk/check.html): type an answer code for any of the 30 cases in book 1, the 25 cases in book 2 or the free printable cases; wrong answers get a hint, never a spoiler
+- [Check Your Answer](https://conkerburydetectives.co.uk/check.html): type an answer code for any of the 30 cases in book 1, the 25 cases in book 2, the 24 cases in book 3, the 20 cases in book 4 or the free printable cases; wrong answers get a hint, never a spoiler
 - [Bonus Case](https://conkerburydetectives.co.uk/bonus.html): a secret extra case unlocked with a key from Case 8 in book 1
 - [Boxing Day Bonus Case](https://conkerburydetectives.co.uk/boxing-day.html): a secret extra case unlocked with a key from the Christmas Day finale in book 2
 - [Printables](https://conkerburydetectives.co.uk/printables.html): free PDF downloads with no sign-up: a taster case, a Detective Starter Kit, a Christmas mini case, colouring pages and a teacher and parent pack (KS2 links, World Book Day costumes), plus a printable case file and certificate
