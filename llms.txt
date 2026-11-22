@@ -1,8 +1,32 @@
 # The Conkerbury Detectives Club
 
-> The official companion website for the Conkerbury Detectives children's detective puzzle books by Inspector Cuthbert Conkerworth: "The Conkerbury Detectives: The Case of the Missing Conker Champion" (book 1) and "The Conkerbury Detectives: A Conkerbury Christmas" (book 2, out now).
+> The official companion website for the Conkerbury Detectives children's detective puzzle books by Inspector Cuthbert Conkerworth: "The Conkerbury Detectives: The Case of the Missing Conker Champion" (book 1), "The Conkerbury Detectives: A Conkerbury Christmas" (book 2), "The Conkerbury Detectives: The Case of the Missing Castle Key" (book 3, out now) and "The Conkerbury Detectives: A Conkerbury Snow Day" (book 4, out now).
 
-## Book 2 (new): A Conkerbury Christmas
+## Book 4 (new): A Conkerbury Snow Day
+- Title: The Conkerbury Detectives: A Conkerbury Snow Day
+- Series: The Conkerbury Detectives (book 4)
+- Author: Inspector Cuthbert Conkerworth (pen name)
+- Reading age: 8 to 12
+- Format: paperback, out now
+- ISBN: 9798144810210
+- Language: English (British)
+- Buy it on Amazon (paperback, out now): https://www.amazon.co.uk/dp/B0HSLGW7PN (UK), https://www.amazon.com/dp/B0HSLGW7PN (US)
+- On the website: https://conkerburydetectives.co.uk/#book4
+- What it is: Snow has closed the school and Mr Bramble's best snow shovel is missing. Solve 20 winter mysteries in one snowy day, then fill in the Secret Scarf to find out who took it. For detectives aged 8 to 12.
+
+## Book 3 (new): The Case of the Missing Castle Key
+- Title: The Conkerbury Detectives: The Case of the Missing Castle Key
+- Series: The Conkerbury Detectives (book 3)
+- Author: Inspector Cuthbert Conkerworth (pen name)
+- Reading age: 8 to 12
+- Format: paperback, out now
+- ISBN: 9798144808101
+- Language: English (British)
+- Buy it on Amazon (paperback, out now): https://www.amazon.co.uk/dp/B0HSLJS7NC (UK), https://www.amazon.com/dp/B0HSLJS7NC (US)
+- On the website: https://conkerburydetectives.co.uk/#book3
+- What it is: It's History Week at Conkerbury Castle, and the great iron Castle Key has vanished. Solve 24 castle mysteries, Monday to Friday, then use the Secret Banner to crack the finale. For detectives aged 8 to 12.
+
+## Book 2: A Conkerbury Christmas
 - Title: The Conkerbury Detectives: A Conkerbury Christmas
 - Series: The Conkerbury Detectives (book 2)
 - Author: Inspector Cuthbert Conkerworth (pen name)
